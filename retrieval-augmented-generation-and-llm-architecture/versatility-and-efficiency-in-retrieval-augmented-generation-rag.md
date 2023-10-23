@@ -30,7 +30,9 @@ Good news – no. The LLM App uses Pathway, an ultra-performant data processing 
 
 ### 4. Is the ChatGPT Plugin for Bing Search an example of RAG?
 
-Some may wonder if certain web search plugins in LLM applications like ChatGPT employ RAG. Well, they can be seen as LLM applications that use a retrieval-augmented generation approach. For instance, a ChatGPT interface with a browsing plugin can fetch up-to-date information from the internet, presenting a more current and accurate response.
+Some may wonder if certain web search plugins in LLM applications like ChatGPT employ RAG. For instance, a ChatGPT interface with a web search plugin can fetch up-to-date information from the internet, presenting a more current and accurate response.
+
+Well, they can be seen as LLM applications that use a retrieval-augmented generation approach – except they're not retrieving data from a larger group of data sources (such as a collection of PDFs or links.)&#x20;
 
 <figure><img src="../.gitbook/assets/ChatGPT Plugin.gif" alt=""><figcaption></figcaption></figure>
 

@@ -26,7 +26,7 @@ So, while the allure of vector databases exists, it's critical to understand tha
 
 ### 3. Is a Separate Real-Time Processing Framework Needed for a Real-time Stream of Data?
 
-Good news – no. The LLM App uses Pathway, an ultra-performant data processing engine (2023 benchmarks) which is suitable for both batch and streaming use cases.
+Good news – no. Under the hood, the LLM App uses Pathway, an ultra-performant data processing engine ([2023 benchmarks](https://pathway.com/blog/streaming-benchmarks-pathway-fastest-engine-on-the-market)) which is suitable for both batch and streaming use cases.
 
 ### 4. Is the ChatGPT Plugin for Bing Search an example of RAG?
 

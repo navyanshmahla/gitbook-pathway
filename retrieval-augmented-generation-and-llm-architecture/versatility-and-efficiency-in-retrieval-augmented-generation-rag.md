@@ -19,7 +19,7 @@ Initially, the use of vector embeddings led developers to naturally consider the
 However, this understanding has evolved.
 
 * **Misconception about Vector Databases**: It's a common belief that vector databases are essential for RAG. While libraries for LLMs, such as LLM App, are compatible with renowned vector databases (for example – Pinecone, Weaviate, etc.,) these are not mandatory components.
-* **Enterprise Challenges**: Introducing a new database into an enterprise environment comes with its own set of complexities and challenges, making a simpler solution preferable in many instances.
+* **Enterprise Challenges**: Introducing any new database into an enterprise environment comes with its own set of complexities and challenges, making a simpler solution preferable in many instances.
 * **Built-in Real-time Indexing within Specific Frameworks**: Tools like LLM App have capabilities to generate and manage their real-time own vector indexes, negating the need for a separate vector database. Additionally, conventional databases like PostgreSQL are expanding their features to include built-in support for vector indexing, thanks to extensions like PG Vector.&#x20;
 
 So, while the allure of vector databases exists, it's critical to understand that they are not the only path to efficient RAG implementation.

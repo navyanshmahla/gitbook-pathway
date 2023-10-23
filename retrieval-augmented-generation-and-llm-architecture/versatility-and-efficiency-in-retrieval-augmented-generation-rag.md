@@ -16,7 +16,7 @@ As with the emergence of foundational Large Language Models (LLMs) or what some 
 
 Initially, the use of vector embeddings led developers to naturally consider the application of dedicated vector databases, which were frequently seen in Recommender Systems.&#x20;
 
-However, this understanding has evolved.
+However, this understanding is quickly evolving.
 
 * **Misconception about Vector Databases**: It's a common belief that vector databases are essential for RAG. While libraries for LLMs, such as LLM App, are compatible with renowned vector databases (for example – Pinecone, Weaviate, etc.,) these are not mandatory components.
 * **Enterprise Challenges**: Introducing any new database into an enterprise environment comes with its own set of complexities and challenges, making a simpler solution preferable in many instances.

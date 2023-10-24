@@ -38,7 +38,7 @@ Some may wonder whether certain web search plugins in LLM applications like Chat
 
 In a way, these can be considered LLM applications that employ a retrieval-augmented generation strategy. However, they do not retrieve data from a diverse set of data sources, such as a collection of PDFs, links, or Kafka topics. This affects the quality of their responses. In such scenarios, LLMs like ChatGPT can only offer the best answer they find from the specific webpage that the plugin accessed.
 
-On the other hand, when you incorporate RAG into your custom LLM application, you benefit from efficient vector embeddings and vector search capabilities. These allow you to extract much more relevant information from a comprehensive data corpus, aiding in the identification of the most pertinent answers. When combined with an LLM app optimized for real-time data streams, you're looking at retrieving the most relevant information from a real-time vector index. Isn't that fascinating?:star\_struck:
+On the other hand, when you incorporate RAG into your custom LLM application, you benefit from efficient vector embeddings and vector search capabilities. These allow you to extract much more relevant information from a comprehensive data corpus, aiding in the identification of the most pertinent answers. When used with something like the [LLM App](https://github.com/pathwaycom/llm-app) optimized for real-time data streams (kudos to Pathway's engine under the hood), you're looking at retrieving the most relevant information from a real-time vector index. Isn't that fascinating?:star\_struck:
 
 
 

@@ -22,7 +22,14 @@ These are bonus resources that are not necessary for you to complete, given the 
 
 * Attention in Large Language Models: Imagine being in a room where multiple conversations are happening. Your ability to focus on one conversation over the others is similar to how Attention works in neural networks. It allows the model to 'focus' on relevant parts of the input for tasks.&#x20;
 * Encoder-Decoder Architecture: In this, an encoder translates the input (e.g., a sentence) into a fixed-size context vector. The decoder takes this context vector to generate an output sequence (e.g., a translated sentence). When the attention mechanism is in action,  it guides the Decoder to focus on certain parts of the Encoder’s output, enhancing the translation or text generation task. The concept of Attention complements the Encoder-Decoder architecture, making it more effective and efficient.
-* This architecture is a building block for LLMs such as GPT-3.5. If you're curious and wish to dive deeper into the intricacies, you can read more about attention mechanisms and encoder-decoder architecture from the links below.&#x20;
-  * [Attention mechanism: Overview](https://youtu.be/fjJOgb-E41w?t=18) | Short Video by Google Cloud
-  * [Attention is all you need](https://arxiv.org/abs/1706.03762) | Read the Paper on ArXiv
-  * [Attention is all you need](https://youtu.be/XfpMkf4rD6E?t=1211) | Watch the seminar by Stanford Online
+* This architecture is a building block for LLMs such as GPT-3.5.&#x20;
+
+### Bonus Links
+
+If you're interested in delving further into the details, you may find the following links on embeddings, attention mechanisms, and encoder-decoder architecture beneficial. A foundational understanding of neural networks, backpropagation, the softmax function, and cross-entropy will enhance your comprehension of these resources. These topics are not the primary focus of this course, so they're provided as bonus links.
+
+* [Attention mechanism: Overview](https://youtu.be/fjJOgb-E41w?t=18) | Short Video by Google Cloud
+* [Word2Vec and Word Embeddings](https://youtu.be/viZrOnJclY0) | Video by StatQuest
+* [Seq2Seq Encoder-Decoder Neural Networks](https://youtu.be/L8HKweZIOmg) | Video by StatQuest
+* [Attention is all you need](https://arxiv.org/abs/1706.03762) | Read the Paper on ArXiv
+* [Attention is all you need](https://youtu.be/XfpMkf4rD6E?t=1211) | Watch the seminar by Stanford Online

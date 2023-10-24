@@ -22,7 +22,7 @@ With RAG, efficient retrieval of the most relevant data for your use case ensure
 
 To put it simply, RAG empowers LLMs to include real-time, reliable data from external databases in their generated text.&#x20;
 
-For a video explanation, check out this video by IBM Research
+For a video explanation, check out this video by Marina Danilevsky, Senior Research Staff Member at IBM Research.
 
 {% embed url="https://youtu.be/T-D1OfcDW1M" %}
 

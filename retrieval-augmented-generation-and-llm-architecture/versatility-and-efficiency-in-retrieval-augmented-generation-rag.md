@@ -12,7 +12,7 @@ One of the most compelling features of RAG and frameworks such as the [LLM App](
 
 Short answer – no. Let's understand.&#x20;
 
-If you don't know, a Vector Database is a specialized database that handles vector embeddings. These databases are primarily used to efficiently store, search, and retrieve vectors for their use cases in LLMs and Recommender Systems. As with the emergence of foundational Large Language Models (LLMs) or what some call "AI Wave," Retrieval-Augmented Generation (RAG) is a relatively new concept. It gained prominence after the 2020 publication of "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks" by a team at Facebook AI Research.&#x20;
+If you don't know, a Vector Database is a specialized database that handles vector embeddings. These databases are primarily used to efficiently store, search, and retrieve vectors for their use cases in LLMs and Recommender Systems. Just like the emergence of foundational Large Language Models (LLMs) or what some call the "AI Wave," Retrieval Augmented Generation (RAG) is also a relatively new concept. It gained prominence after the 2020 publication of "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks" by a team at Facebook AI Research.&#x20;
 
 Initially, the use of vector embeddings led developers to naturally consider the application of dedicated vector databases, which were frequently seen in Recommender Systems.&#x20;
 

@@ -1,6 +1,8 @@
 # What is Retrieval Augmented Generation (RAG)?
 
-Large Language Models (LLMs) like GPT-4 or Mistral-7b are extraordinary in many ways, yet they come with a set of challenges—something we've summarized toward the end of this module. For now, let's focus on one specific limitation: the timeliness of their data. Since these models are trained up to a particular cut-off date, they aren't well-suited for real-time or organization-specific information.
+Large Language Models (LLMs) like GPT-4 or Mistral-7b are extraordinary in many ways, yet they come with a set of challenges.&#x20;
+
+For now, let's focus on one specific limitation: the timeliness of their data. Since these models are trained up to a particular cut-off date, they aren't well-suited for real-time or organization-specific information.
 
 <figure><img src="../.gitbook/assets/chatgpt outdated.png" alt=""><figcaption></figcaption></figure>
 

@@ -12,7 +12,7 @@ This is where Retrieval-Augmented Generation, commonly known as RAG, significant
 
 In a way that might resemble a resourceful friend in an exam setting or during a speech who—figuratively speaking, of course—swiftly passes you **the most relevant** "cue card" out of a ton of information to help you understand what you should be writing or saying next.&#x20;
 
-<figure><img src="../.gitbook/assets/maxresdefault-min.jpeg" alt=""><figcaption><p><mark style="color:blue;"><strong>Alright, perhaps that wasn't the perfect example, but you get the point.</strong></mark> <span data-gb-custom-inline data-tag="emoji" data-code="1f604">😄</span></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/maxresdefault-min.jpeg" alt=""><figcaption><p><mark style="color:blue;"><strong>Perhaps that wasn't the perfect example, but you get the point.</strong></mark> <span data-gb-custom-inline data-tag="emoji" data-code="1f604">😄</span></p></figcaption></figure>
 
 With RAG, efficient retrieval of the most relevant data for your use case ensures the text generated is both current and substantiated. RAG operates through a three-fold process:
 

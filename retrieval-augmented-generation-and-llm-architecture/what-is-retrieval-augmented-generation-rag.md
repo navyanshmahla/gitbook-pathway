@@ -14,7 +14,9 @@ In a way that might resemble a resourceful friend in an exam setting or during a
 
 <figure><img src="../.gitbook/assets/maxresdefault-min.jpeg" alt=""><figcaption><p><mark style="color:blue;"><strong>Perhaps that wasn't the perfect example, but you get the point.</strong></mark> <span data-gb-custom-inline data-tag="emoji" data-code="1f604">😄</span></p></figcaption></figure>
 
-With RAG, efficient retrieval of the most relevant data for your use case ensures the text generated is both current and substantiated. RAG operates through a three-fold process:
+With RAG, efficient retrieval of the most relevant data for your use case ensures the text generated is both **current** and **substantiated**.&#x20;
+
+RAG, as its name indicates, operates through a three-fold process:
 
 * **Retrieval:** It sources pertinent information.&#x20;
 * **Augmentation:** This information is then added to the model's initial input.&#x20;
@@ -22,7 +24,7 @@ With RAG, efficient retrieval of the most relevant data for your use case ensure
 
 To put it simply, RAG empowers LLMs to include real-time, reliable data from external databases in their generated text.&#x20;
 
-For a video explanation, check out this video by Marina Danilevsky, Senior Research Staff Member at IBM Research.
+For a better explanation, check out this video by Marina Danilevsky, Senior Research Staff Member at IBM Research where she shares two challenges with LLMs that are resolved with the help of Retrieval Augmented Generation.
 
 {% embed url="https://youtu.be/T-D1OfcDW1M" %}
 

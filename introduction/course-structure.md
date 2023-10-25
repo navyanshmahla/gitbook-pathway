@@ -12,8 +12,9 @@ This way, your learning won't interfere with other academic or professional comm
 
 *   **Kick-off Session**:&#x20;
 
-    * Join us on 21st October at 5 p.m. IST / 1:30 p.m. CEST / 4:30 a.m. PDT for our inaugural session. While attending live offers a chance for real-time interaction, we understand schedules might conflict.&#x20;
-    * Rest assured, a recording will be emailed to you post-session. Nevertheless, we recommend attending in real time for a more engaging experience. This session will provide an overview of the course essentials, and our dedicated team will be on hand to address any preliminary questions you might have.
+    * The first live session was held on 21st October at 5 p.m. IST / 1:30 p.m. CEST / 4:30 a.m. PDT for our inaugural session. While attending live offered a chance for real-time interaction, we understand schedules might conflict.&#x20;
+    * If you couldn't watch the session live, you can find its recording [here](https://youtu.be/AjmeopQuuGI). This session recording will provide an overview of the course essentials.
+    * Nevertheless, we recommend attending future events in real-time for a more engaging experience.&#x20;
 
 
 * **Fireside Chat with Jan Chorowski and Anup Surendran**:&#x20;

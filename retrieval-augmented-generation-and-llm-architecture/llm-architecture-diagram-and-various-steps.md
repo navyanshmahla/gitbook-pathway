@@ -14,5 +14,5 @@ For a nuanced understanding of how Retrieval-Augmented Generation (RAG) optimize
 3. **Query Transformation**: A user’s input query is likewise transformed into a compatible vector representation, ensuring that it can be effectively matched with the indexed vectors for data retrieval.
 4. **Contextual Retrieval**: Algorithms like Locality-Sensitive Hashing (LSH) are applied to find the closest matches between the user query and the indexed data vectors, staying within the model's token limitations.
 5. **Text Generation**: With the retrieved context, foundational LLMs like GPT-3.5 Turbo or Llama-2 employ techniques from the Transformer architecture, such as self-attention, to generate an appropriate response.
-6. **User Experience**: Finally, the generated text is presented to the user via interfaces like Streamlit or ChatGPT.
+6. **User Interface**: Finally, the generated text is presented to the user via interfaces like Streamlit or ChatGPT.
 

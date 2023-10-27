@@ -1,20 +1,16 @@
 # Final Project + Giveaways
 
-#### Welcome to the Final Stretch of Your Bootcamp Journey! 🎉
+#### Welcome to the Final Stretch of Your Bootcamp Journey!&#x20;
 
-We're nearing the end of this mini bootcamp, and it's time to turn all the learning into action. To help you make the most out of your final project, we've curated a list of exciting tracks that showcase the limitless potential of LLM App. These are not just projects; they're opportunities to innovate and showcase a meaningful impact! 🌟
+As we approach the conclusion of this mini bootcamp, it's time to transform your acquired knowledge into practical applications.&#x20;
 
-But before we dive into these sample tracks, here's something for everyone:
+To guide you, we've carefully selected a range of exciting project tracks, spotlighting the extensive capabilities of LLM App. These projects are your platform for innovation and making a tangible impact! 🌟
 
-* **Course Completion**:&#x20;
-  * If building from scratch feels daunting, you can complete the course by replicating the "Dropbox Chat" example we demonstrated earlier.&#x20;
-  * To earn your bootcamp graduation certificate, build a real-time RAG-based LLM application using LLM App. Furthermore, host your open source project on GitHub, and share with us via [the form](https://forms.gle/wr3asGb9RRgnmBxz6).&#x20;
-  * This being said, there are added incentives (beyond learning) to make a novel application using the LLM App. We've shared that ahead.&#x20;
-*   **Guidelines for Prizes**:&#x20;
+### How to Succesfully Complete the Bootcamp
 
-    * Agree to the T\&Cs that are shared on the next page, and remember, each submission must leverage LLM App and its real-time capabilities.&#x20;
-    * Exceptional projects will not only receive website showcase but also have a chance to win one of our Top 10 prizes!&#x20;
+* To qualify for your bootcamp certificate, complete the required MCQs—one in the Vector Embeddings module and another in the RAG module.&#x20;
+* Concurrently, you're expected to build a real-time, RAG-based LLM application using the [LLM App](https://github.com/pathwaycom/llm-app). While doing so, you have to make sure to host your open-source project on GitHub Pages and submit its link through the [provided form](https://docs.google.com/forms/d/e/1FAIpQLSfeX1MPyUNmkSlnIMZZWurTsQLqFFjM-Gten29Zp1fOJPVEJA/viewform).
+* If the idea of creating an LLM application from the ground up (like the one we saw in Amazon Discounts case) feels overwhelming, you have the option to build upon the "Dropbox Chat" example discussed earlier. By tailoring it to meet specific needs, you can construct an application that holds substantial business or social value. For instance, the EU AI Act successfully repurposed the Dropbox Chat framework to simplify the understanding of complex legal documents in the AI domain.
+* This being said, there are added incentives (beyond learning) to make a novel application using the LLM App.&#x20;
 
-
-
-    What are those? Let's read. :star\_struck:
+What are those incentives? Let's read. :star\_struck:

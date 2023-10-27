@@ -6,8 +6,7 @@ Take this chance to self-assess and solidify your grasp of the topics covered.&#
 
 Ready? 📝
 
-\
-[https://www.flexiquiz.com/SC/N/583a8219-22b6-41ce-9af4-7b152b6bd80d](https://www.flexiquiz.com/SC/N/583a8219-22b6-41ce-9af4-7b152b6bd80d)
+* Here's the link to the graded quiz: [https://www.flexiquiz.com/SC/N/vector-quiz](https://www.flexiquiz.com/SC/N/vector-quiz)
 
-_(Note: While attempting the quiz, please enter the email ID you used to register for the bootcamp.)_
+(Note: While attempting the quiz, please enter the email ID you used to register for the bootcamp.)
 

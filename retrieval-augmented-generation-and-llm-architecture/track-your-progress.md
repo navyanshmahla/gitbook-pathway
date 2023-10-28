@@ -6,4 +6,6 @@ This quiz is designed to test your understanding of Retrieval Augmented Generati
 
 Ready? 📝
 
-_(Hey there! We're fixing a small hiccup with our MCQ software. We aim to have it sorted by October 28th. We'll keep you posted via email and WhatsApp. Thanks for your patience!)_
+**Here's the link:** [**https://www.flexiquiz.com/SC/N/RAG-quiz**](https://www.flexiquiz.com/SC/N/RAG-quiz)
+
+_(Please take the MCQ quiz using the same email ID you used to register for the bootcamp)_

@@ -25,7 +25,8 @@ Let's analyze a few elements from this video.
 
 {% code overflow="wrap" %}
 ```bash
-git clone https://github.com/pathway-labs/dropbox-ai-chat cd dropbox-ai-chat
+git clone https://github.com/pathway-labs/dropbox-ai-chat 
+cd dropbox-ai-chat
 ```
 {% endcode %}
 

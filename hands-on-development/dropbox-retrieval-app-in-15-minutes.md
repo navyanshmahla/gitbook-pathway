@@ -55,8 +55,19 @@ To create an isolated environment, execute:
 
 {% code overflow="wrap" %}
 ```python
-python -m venv pw-env source pw-env/bin/activate  
-# On Windows, use `source pw-env\Scripts\activate`
+# Setting Up a Virtual Environment
+
+# On macOS and Linux:
+# Create and activate a virtual environment
+python -m venv pw-env && source pw-env/bin/activate
+
+# On Windows:
+# Step 1: Create a new virtual environment in a folder named 'pw-env'
+python -m venv pw-env
+
+# Step 2: Activate the virtual environment
+pw-env\Scripts\activate
+
 ```
 {% endcode %}
 

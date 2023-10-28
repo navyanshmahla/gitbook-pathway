@@ -17,8 +17,10 @@ This way, your learning won't interfere with other academic or professional comm
     * Nevertheless, we recommend attending future events in real-time for a more engaging experience.&#x20;
 
 
-* **Fireside Chat with Jan Chorowski and Anup Surendran**:&#x20;
-  * On 2nd November, at 6 am PDT / 3 pm CEST / 6:30 pm IST, join us for an enlightening chat with [Anup Surendran](https://www.linkedin.com/in/anupsurendran/) and [Jan Chorowski](https://scholar.google.com/citations?user=Yc94070AAAAJ\&hl=en). Engage with them through pre-submitted questions via forms (to be shared later), and live chat during the session.
+* **Fireside Chat with Jan Chorowski | Exploring the Frontiers of Large Language Models**:&#x20;
+  * On 2nd November, at 6 am PDT / 3 pm CEST / 6:30 pm IST, join us for an enlightening chat with [Jan Chorowski](https://scholar.google.com/citations?user=Yc94070AAAAJ\&hl=en), hosted by [Anup Surendran](https://www.linkedin.com/in/anupsurendran/).&#x20;
+  * To register for the event, make sure you [RSVP here](https://www.linkedin.com/events/exploringfrontiersofllms-firesi7122940812341964800/).
+  * You can engage with Jan and Anup through live chat during the session.
   * In the session, we will delve into topics like:
     * The potentials and boundaries of LLMs.
     * Overcoming challenges in deploying LLM applications.

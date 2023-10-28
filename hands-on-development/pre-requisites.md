@@ -21,7 +21,7 @@ Before we dive in, let's make sure you have all the necessary prerequisites inst
 
 This key is required if you plan to use OpenAI models for embedding and generation.&#x20;
 
-If you are less confident with using open-source alternatives, this is a good starting point. By default, OpenAI currently offers $18 in free credits, which should suffice for building your project.&#x20;
+If you are less confident with using open-source alternatives, this is a good starting point. By default, OpenAI currently offers $5 in free credits for new accounts – i.e. the ones with a new phone number and email ID. These free credits should suffice for building your project.&#x20;
 
 Going forward, we will use`text-embedding-ada-002` for generating the vector embeddings ([OpenAI documentation](https://openai.com/blog/new-and-improved-embedding-model)) and `gpt-3.5-turbo` for text generation.
 

@@ -1,16 +1,8 @@
-# Dropbox Retrieval App in 15 Minutes
-
-Let's dive into the setup and operation of the Dropbox AI Chat tool, an innovative solution enabling you to efficiently search through extensive, unstructured documents stored in your Dropbox using advanced AI capabilities.&#x20;
-
-What you'll be building can be seen below. In this particular showcase we'll be cloning [this particular repository](https://github.com/pathway-labs/dropbox-ai-chat) to enable you to quickly build a similar application.&#x20;
-
-<figure><img src="../.gitbook/assets/dropbox-ai-search-tool.gif" alt=""><figcaption></figcaption></figure>
-
-To get started, ensure that you have Dropbox installed on your machine, as it is an obvious prerequisite for using this tool.
+# Building the app without Dockerization
 
 Next, you can explore a video tutorial by Richard Pelgrim, a Developer Advocate in the stream data processing space, demonstrating how they harnessed the Dropbox document sync application to create an RAG app.&#x20;
 
-### Link to the Project
+**Link to the Project**
 
 * The repository being referred to, can be found here **-** [**https://github.com/pathway-labs/dropbox-ai-chat**](https://github.com/pathway-labs/dropbox-ai-chat)**.** Make sure to star it. :star:
 * If you struggle to build the application with the help of README on the GitHub repo above, the video and the description below should help you with it.&#x20;
@@ -142,6 +134,7 @@ pw.run()
 
 By following these steps, you should be able to get the Dropbox AI Chat tool up and running.&#x20;
 
-Interestingly if you quickly revisit the [LLM Architecture diagram](https://ai-community-iitb-organization.gitbook.io/10-days-llm-bootcamp/retrieval-augmented-generation-and-llm-architecture/llm-architecture-diagram-and-various-steps) we saw earlier, there was a prompt from a Customer Support Executive trying to understand the product release notes made by the development team.&#x20;
+However, if you're facing some issues in downloading the dependencies or running the application on your machine, it might be worthwhile to check the next module which gives a comprehensive guide for implementing this through Docker.
 
-With something like the Dropbox app, that problem can be easily addressed. Now let's look at another example where we use an API as a data source.
+
+

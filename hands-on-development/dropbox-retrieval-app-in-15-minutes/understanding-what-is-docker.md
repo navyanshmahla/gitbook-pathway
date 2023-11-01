@@ -1,0 +1,25 @@
+# Understanding What is Docker
+
+This particular page is to help you build the previous file if you're new to Docker and are struggling in installing depencies on your machine.&#x20;
+
+**First off, a quick recap.**&#x20;
+
+Think of Docker like a shipping container for your app. Just as a shipping container can hold all sorts of goods (clothes, electronics, etc.) and can be transported anywhere in the world, Docker bundles your app and everything it needs to run into a '**container**.' This makes it easy to share and run your app on any computer.
+
+Given the complexities and manual effort involved in resolving dependency issues in your system, Docker can be a beneficial tool to standardize the development environment among all students.
+
+\
+**Why Use Docker?**
+
+* **Standardized Environment**: Everyone gets the same set of dependencies, reducing "it works on my machine" issues.
+* **Isolated**: Doesn't interfere with other projects or system-wide settings.
+* **Ease of Use**: Once set up, running the project becomes much simpler.
+
+### Understanding Key Docker Terminologies
+
+* **Docker Image**: Think of this as a blueprint or a snapshot of a container, including the application and its dependencies. You build an image once and use it to create multiple containers.
+* **Docker Container**: A container is a running instance of an image. It's a lightweight, stand-alone, executable software package that includes everything needed to run the code.
+* **CMD**: In Docker, the `CMD` instruction specifies the command that will be executed when the container starts up.
+* **Docker Compose:** A tool for defining and running multi-container Docker applications. Using a YAML file (`docker-compose.yml`), it allows you to specify how different containers interact with each other, making it easier to manage multiple containers as a single service.
+
+Now let's see the step-by-step implementation.

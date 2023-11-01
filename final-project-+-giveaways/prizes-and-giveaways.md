@@ -25,7 +25,7 @@ To that end, we're thrilled to announce a diverse array of prizes and incentives
 
 These criteria are only for the blog feature and the top 10 prizes and not for bootcamp graudation:
 
-* The project must be novel in nature.
+* The project must be novel in nature and not an inspired/cloned version of Dropbox Retrieval App.
 * Utilize the LLM App and its real-time data features for eligibility in top rankings.
 * Ensure the project is open-source with a GitHub repository that includes a project description, a video demo, clear methodology, and a functional prototype.
 * Utilize the LLM App to create impactful solutions in areas like customer support automation, data insights, real-time monitoring, and healthcare, or to enable cross-functional collaboration using real-time data; their project can also serve open-ended consumer, developer, or B2B needs across various domains. We're sharing a few tracks in the next section that can be a good starting point for you.&#x20;
@@ -40,9 +40,9 @@ These criteria are only for the blog feature and the top 10 prizes and not for b
 
 ### Terms and Conditions for all the Learners
 
-* **Ownership & Rights**: While participants maintain ownership of their projects, they grant Pathway, WnCC IIT Bombay, and the AI Community permission to feature their work on respective blogs if selected for an official blog feature.
+* **Ownership & Rights**: While participants maintain ownership of their projects, they grant Pathway, WnCC IIT Bombay, and the AI Community IIT Bombay permission to feature their work on respective blogs if selected for an official blog feature.
 * **Organizer's Discretion**: The organizers hold the authority to determine winners and reserve the right to disqualify any participant who violates the Terms and Conditions or engages in misconduct.
 * **Plagiarism**: Plagiarism will result in immediate disqualification. Participants must submit original work.
 * **Attribution**: If participants utilize open-source resources or someone else's work as a component of their project, proper credit must be given.
 * **Technical Responsibility**: Participants bear the responsibility for their own hardware, software, and internet connectivity.
-* **T-shirt & Prize Logistics**: For this cohort, WnCC IIT Bombay and the AI Community IIT Bombay are overseeing T-shirt distribution. T-shirts can only be picked up at the IIT Bombay campus within a given timeframe. All other prizes, including digital certificates, will be shipped to participants unless located in areas restricted by Indian or French law.
+* **T-shirt & Prize Logistics**: For this cohort, WnCC IIT Bombay and the AI Community IIT Bombay are overseeing T-shirt distribution. T-shirts can only be picked up at the IIT Bombay campus within a given timeframe, and on a specific date that will be communicated beforehand. All other prizes, including digital certificates, will be shipped to participants unless located in areas restricted by Indian or French law.

@@ -6,7 +6,7 @@ Let's individually explore these options to understand where RAG excels.
 
 ### 1. Fine-Tuning vs RAG
 
-For those less familiar with the concept, fine-tuning involves modifying a pre-trained language model (such as GPT-3.5 Turbo, Mistral-7b, or Llama-2) with a specialized labeled dataset to work optimally for specific use cases.&#x20;
+For those less familiar with the concept, fine-tuning involves modifying a pre-trained language model (such as GPT-3.5 Turbo, Mistral-7b, or Llama-2) with a smaller, targeted dataset to work optimally for specific use cases.&#x20;
 
 While fine-tuning avoids the need to build a model from scratch, it does have its drawbacks, which RAG effectively addresses.&#x20;
 

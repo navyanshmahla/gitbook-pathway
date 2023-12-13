@@ -22,7 +22,7 @@ A heartfelt thanks to those who made this course richer with their expertise:
 * **Mudit Srivastava**, Growth Manager at Pathway | Prev - Growth Head at AI Planet
 * **Bobur Umurzokov**, Developer Advocate at Pathway | Ex-Lead at Microsoft Tallinn
 * **Berke Can Rizai,** LLM Research Engineer at Pathway | Ex-Data Scientist at Getir
-* **Olivier Rauss,** R\&D Engineer - Algorithms and Data Processing Magician at Pathway | Did PhD Focused on KNNs | Postdoc at Peking University
+* **Olivier Ruas,** R\&D Engineer - Algorithms and Data Processing Magician at Pathway | Did PhD Focused on KNNs | Postdoc at Peking University
 
 We especially thank **Mike Chambers**, Developer Advocate at Amazon Web Services for allowing us to cite some of his finest educational resources from the BuildOnAWS YouTube channel. Along with that we've also cited some wonderful open-resources published by IBM Technology, Microsoft, and others. We are highly thankful to them too.
 

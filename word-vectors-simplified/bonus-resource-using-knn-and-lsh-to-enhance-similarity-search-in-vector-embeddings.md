@@ -1,4 +1,4 @@
-# Bonus Resource – Using kNN and LSH to Enhancing Similarity Search in Vector Embeddings
+# Bonus Resource – Using kNN and LSH to Enhance Similarity Search in Vector Embeddings
 
 Diving into the intricacies of kNN (k-Nearest-Neighbors) and LSH (Locality Sensitive Hashing), we find ourselves at the intersection of mathematics, data science, and algorithmic strategy.&#x20;
 

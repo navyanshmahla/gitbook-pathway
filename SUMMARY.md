@@ -16,7 +16,7 @@
   * [Role of Context in LLMs](word-vectors-simplified/role-of-context-in-llms.md)
   * [Transforming Vectors into LLM Responses](word-vectors-simplified/transforming-vectors-into-llm-responses.md)
   * [Similarity Search in Vectors](word-vectors-simplified/a-bonus-dive-similarity-search-in-vectors.md)
-  * [Bonus Resource – Using kNN and LSH to Enhancing Similarity Search in Vector Embeddings](word-vectors-simplified/bonus-resource-using-knn-and-lsh-to-enhancing-similarity-search-in-vector-embeddings.md)
+  * [Bonus Resource – Using kNN and LSH to Enhance Similarity Search in Vector Embeddings](word-vectors-simplified/bonus-resource-using-knn-and-lsh-to-enhance-similarity-search-in-vector-embeddings.md)
   * [Let's Track Our Progress](word-vectors-simplified/lets-track-our-progress.md)
 * [Prompt Engineering](prompt-engineering/README.md)
   * [What is Prompt Engineering](prompt-engineering/what-is-prompt-engineering.md)

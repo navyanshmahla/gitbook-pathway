@@ -18,30 +18,24 @@ This way, your learning won't interfere with other academic or professional comm
 
 
 * **Fireside Chat with Jan Chorowski | Exploring the Frontiers of Large Language Models**:&#x20;
-  * On 2nd November, at 6 am PDT / 3 pm CEST / 6:30 pm IST, join us for an enlightening chat with [Jan Chorowski](https://scholar.google.com/citations?user=Yc94070AAAAJ\&hl=en), hosted by [Anup Surendran](https://www.linkedin.com/in/anupsurendran/).&#x20;
-  * To register for the event, make sure you [RSVP here](https://www.linkedin.com/events/exploringfrontiersofllms-firesi7122940812341964800/).
-  * You can engage with Jan and Anup through live chat during the session.
-  * In the session, we will delve into topics like:
+  * On 2nd November, at 6 am PDT / 3 pm CEST / 6:30 pm IST, we hosted an iconic chat around LLMs with [Jan Chorowski](https://scholar.google.com/citations?user=Yc94070AAAAJ\&hl=en) and [Anup Surendran](https://www.linkedin.com/in/anupsurendran/).&#x20;
+  * In the session, we will delved into topics like:
     * The potentials and boundaries of LLMs.
     * Overcoming challenges in deploying LLM applications.
     * Strategies for building real-time LLM apps.
     * The intriguing concept of "Learning to Forget" in Large Language Models.
-
-Additional office hours or doubt-solving sessions might be organized, depending on the nature and volume of queries received. Our objective is to ensure you receive timely and comprehensive answers.
+  * You can find this session recording after the RAG Module as a Bonus Resource.
 
 ### Addressing Doubts
 
 * **Self-Reliance**: Our philosophy revolves around nurturing independent learners. While our guidance is continuous, we urge you to harness the expansive knowledge available online, exploring answers through search engines and existing literature.
-* **Response Time**: Considering the global footprint of the Pathway team, responses might take up to 24 hours, especially factoring in limited availability on weekends. The AI Community and Web & Coding Club at IIT Bombay, who are actively collaborating closely with Pathway's team, will predominantly address your questions. However, whenever the need arises, Pathway's team is ever-eager to directly assist.
-* **Communication Channels**: Ensure you're part of [Pathway's Discord](https://discord.gg/AyEbJbSZ) for such direct interactions. As a best practice, unresolved queries can be raised via GitHub issues and then their link can be shared on Discord.&#x20;
+* **Communication Channels**: Ensure you're part of [Pathway's Discord](https://discord.gg/AyEbJbSZ) for asking doubts directly to the creators of the framework we've covered ahead. This being said, please use Google Search, ChatGPT, or other tools at your disposal to try to find the answer yourself. If you're unable to do so, as a best practice, unresolved queries can be raised via GitHub issues and then their link can be shared on Discord.&#x20;
+
+### Bonus Resources
+
+* From time-to-time, you'll find Bonus Resources alongside your coursework. These resources are optional and not essential for quizzes or project completion. They're designed to deepen your understanding, complementing the core material which is succinctly crafted for those eager to develop their first real-time LLM application. Feel free to explore these additional materials at your leisure for a broader and more detailed learning experience.
 
 ### Quick Checks
 
-* **WhatsApp Community**: If you've shared your contact during registration, you should've been added to a WhatsApp group managed by AI Community IIT Bombay and WnCC IIT Bombay in collaboration with Pathway. If not, please contact [wncc@iitb.ac.in](mailto:wncc@iitb.ac.in) or [mudit+iitb@pathway.com](mailto:mudit+iitb@pathway.com).
-* **Email Notifications**: Keep an eye out for an email from [mudit@pathway.com](mailto:mudit@pathway.com) sent on 20th October. Mark it as primary and star it to ensure you never miss out on crucial updates.
-* **GitHub Repositories**: It would be fantastic if you could 'Star' :star:  both the linked repositories. This not only keeps you in the loop with our forthcoming updates but also stands as a nod of approval to our work. Your gesture, though small, communicates that you recognize and appreciate the value we're bringing to the table.
-  * [Pathway's GitHub Repository](https://github.com/pathwaycom/pathway)
-  * [LLM App](https://github.com/pathwaycom/llm-app)
-
-###
+* **WhatsApp Community**: If you've shared your contact during registration, you should've been added to a WhatsApp group managed by AI Community IIT Bombay and WnCC IIT Bombay in collaboration with Pathway. If not, please contact [wncc@iitb.ac.in](mailto:wncc@iitb.ac.in).
 

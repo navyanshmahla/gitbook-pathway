@@ -1,4 +1,4 @@
-# A Bonus Dive: Similarity Search in Vectors
+# Similarity Search in Vectors
 
 While the upcoming section dives a bit deeper into this topic, it's essential to note that this is a bonus section for a reason.&#x20;
 
@@ -28,15 +28,23 @@ Three of the most commonly used metrics to measure the similarity between vector
 * **Formula**: The cosine similarity between vectors `a` and `b` is the dot product of the vectors divided by the product of their magnitudes.
 * **Considerations**: This metric is not influenced by the magnitude of vectors, making it suitable for tasks like semantic search or document classification, where the direction or angle between vectors is more significant than their length.
 
+**Comparing and Summarizing the three options**
+
+You now have embeddings for any pair of examples.
+
+| Similarity Metric  | Description                                                                                    | Formula                                                                            | Correlation with Similarity                                |
+| ------------------ | ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| Euclidean Distance | Measures the straight-line distance between two points in space represented by vectors         | <p><span class="math">\sqrt{\sum_{i=1}^{n} (a_i - b_i)^2} </span></p><p></p>       | Inversely related (higher distance means lower similarity) |
+| Cosine Similarity  | Evaluates the cosine of the angle between two vectors, indicating their orientation similarity | $$\frac{\mathbf{a} \cdot \mathbf{b}}{\|\mathbf{a}\| \|\mathbf{b}\|}$$              | Directly related (higher cosine means higher similarity)   |
+| Dot Product        | The product of the magnitudes of two vectors and the cosine of the angle between them          | $$a_1b_1 + a_2b_2 + \ldots + a_nb_n = \|\mathbf{a}\| \|\mathbf{b}\| \cos(\theta)$$ | Directly related and increases with vector magnitudes      |
+
 ### See Cosine Similarity Search in Action
 
 {% embed url="https://www.youtube.com/embed/Rg_7JcdZtbg?start=530&end=1195" %}
 
 _(Credits: Microsoft Reactor)_
 
-
-
-You notice and appreciate that cosine similarity has found extensive applications in areas such as semantic search and document classification. It provides a robust mechanism to gauge the directional similarity of vectors, which translates to comparing the overall essence or content of documents. Imagine trying to find documents or articles that resonate with a given topic or theme; cosine similarity is your tool of choice.
+You should notice and appreciate that cosine similarity has found extensive applications in areas such as **semantic search** and **document classification**. It provides a robust mechanism to gauge the directional similarity of vectors, which translates to comparing the overall essence or content of documents. Imagine trying to find documents or articles that resonate with a given topic or theme; cosine similarity is your tool of choice.
 
 Further, if you've ever used a recommendation system, like those on streaming platforms or e-commerce sites, they might be leveraging cosine similarity. These systems aim to suggest items to users, drawing parallels from their historical behavior and preferences.
 

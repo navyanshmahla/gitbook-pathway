@@ -1,9 +1,9 @@
 # Table of contents
 
 * [Introduction](README.md)
-  * [Understanding the level of the course](introduction/understanding-the-level-of-the-course.md)
+  * [Getting Started](introduction/getting-started.md)
   * [Course Structure](introduction/course-structure.md)
-  * [Objectives and Pre-requisites](introduction/objectives-and-pre-requisites.md)
+  * [Pre-Requisites](introduction/pre-requisites.md)
   * [Greetings from your Instructors](introduction/greetings-from-your-instructors.md)
   * [First Exercise (Ungraded) and Basic Checks](introduction/first-exercise-ungraded-and-basic-checks.md)
 * [Basics of LLM](basics-of-llm/README.md)
@@ -15,7 +15,8 @@
   * [Word Vector Relationships](word-vectors-simplified/word-vector-relationships.md)
   * [Role of Context in LLMs](word-vectors-simplified/role-of-context-in-llms.md)
   * [Transforming Vectors into LLM Responses](word-vectors-simplified/transforming-vectors-into-llm-responses.md)
-  * [A Bonus Dive: Similarity Search in Vectors](word-vectors-simplified/a-bonus-dive-similarity-search-in-vectors.md)
+  * [Similarity Search in Vectors](word-vectors-simplified/similarity-search-in-vectors.md)
+  * [Bonus Resource – Using kNN and LSH to Enhancing Similarity Search in Vector Embeddings](word-vectors-simplified/bonus-resource-using-knn-and-lsh-to-enhancing-similarity-search-in-vector-embeddings.md)
   * [Let's Track Our Progress](word-vectors-simplified/lets-track-our-progress.md)
 * [Prompt Engineering](prompt-engineering/README.md)
   * [What is Prompt Engineering](prompt-engineering/what-is-prompt-engineering.md)

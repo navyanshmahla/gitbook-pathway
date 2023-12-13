@@ -1,4 +1,4 @@
-# Understanding the level of the course
+# Getting Started
 
 This course is meticulously crafted for beginners who are grounded in programming, especially with a forte in Python. Prior expertise in LLMs or generative AI is not necessary, as our curriculum ensures a progressive learning experience.
 
@@ -37,6 +37,23 @@ To enrich your learning experience, we've scheduled an insightful session with d
 While we lay the groundwork and provide the tools, the epicentre of learning and exploration resides with you. We set the stage, but the performance—the application, the innovation, the breakthroughs—depends on your initiative and drive.
 
 As we chart this transformative journey, are you poised to harness the untapped potentials of LLMs combined with real-time data for the greater good? Let's embark on this venture together! 🚀
+
+### Get to Know Pathway – our collaborators for this course
+
+Pathway is the world's fastest data processing engine supporting unified workflows for batch, streaming data, and LLM applications.&#x20;
+
+Pathway is the single, fastest integrated data processing layer for real-time intelligence.
+
+* Mix-and-match: batch, streaming, API calls including LLMs.
+* Effortless transition from batch to real-time - just like setting a flag in your Spark code.
+* Powered by an extremely efficient and scalable Rust engine, reducing costs of any computations.
+* Enabling use cases enterprises were craving, making advanced data transformations lightning-fast and easy to implement.
+
+### Why is Pathway so Fast <a href="#why-is-pathway-so-fast" id="why-is-pathway-so-fast"></a>
+
+The Pathway engine is built in Rust. We love Rust 🦀. Rust is built for speed, parallel computation and low-level control over hardware resources. This allows us to execute maximum optimization for performance and speed.
+
+We also love Python 🐍. Which is the makers of Pathway made in a way that when you write your data processing code in Python, Pathway will automagically compile it into a Rust dataflow. In other words, using Pathway you don’t need to know anything about Rust to enjoy its enormous performance benefits! For now, this is a simple enough starting point (that said, feel free to find more details in Pathway's [ArXiv Paper](https://arxiv.org/abs/2307.13116) – your first bonus resource 🙂).
 
 \
 

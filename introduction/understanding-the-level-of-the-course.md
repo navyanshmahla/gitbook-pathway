@@ -40,20 +40,18 @@ As we chart this transformative journey, are you poised to harness the untapped 
 
 ### Get to Know Pathway – our collaborators for this course
 
-Pathway is the world's fastest data processing engine supporting unified workflows for batch, streaming data, and LLM applications.&#x20;
-
-Pathway is the single, fastest integrated data processing layer for real-time intelligence.
+Pathway is the world's fastest data processing engine ([benchmarks](https://pathway.com/blog/streaming-benchmarks-pathway-fastest-engine-on-the-market)) supporting unified workflows for batch, streaming data, and LLM applications. It is the single, fastest integrated data processing layer for real-time intelligence. With Pathway, you can
 
 * Mix-and-match: batch, streaming, API calls including LLMs.
-* Effortless transition from batch to real-time - just like setting a flag in your Spark code.
-* Powered by an extremely efficient and scalable Rust engine, reducing costs of any computations.
-* Enabling use cases enterprises were craving, making advanced data transformations lightning-fast and easy to implement.
+* Effortless transition from batch to real-time data processing - just like setting a flag in your Spark code.
+* Reduce cost of any computations – it is powered by an extremely efficient and scalable Rust engine.
+* Enable use cases enterprises crave, and make advanced data transformations lightning-fast and easy to implement.
 
 ### Why is Pathway so Fast <a href="#why-is-pathway-so-fast" id="why-is-pathway-so-fast"></a>
 
-The Pathway engine is built in Rust. We love Rust 🦀. Rust is built for speed, parallel computation and low-level control over hardware resources. This allows us to execute maximum optimization for performance and speed.
+The Pathway engine is built in Rust. The team at Pathway loves Rust 🦀. Rust is built for speed, parallel computation and low-level control over hardware resources. This allows us to execute maximum optimization for performance and speed.
 
-We also love Python 🐍. Which is the makers of Pathway made in a way that when you write your data processing code in Python, Pathway will automagically compile it into a Rust dataflow. In other words, using Pathway you don’t need to know anything about Rust to enjoy its enormous performance benefits! For now, this is a simple enough starting point (that said, feel free to find more details in Pathway's [ArXiv Paper](https://arxiv.org/abs/2307.13116) – your first bonus resource 🙂).
+They also share our love for Python 🐍. Which is why Pathway is made in a way that when you write your data processing code in Python, Pathway will automagically compile it into a Rust dataflow. In other words, using Pathway you don’t need to know anything about Rust to enjoy its enormous performance benefits! For now, this is a simple enough starting point (that said, feel free to find more details in Pathway's [ArXiv Paper](https://arxiv.org/abs/2307.13116) – your first bonus resource 🙂).
 
 \
 

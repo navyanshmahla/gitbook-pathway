@@ -14,7 +14,7 @@
   * [What is a Word Vector](word-vectors-simplified/what-is-a-word-vector.md)
   * [Word Vector Relationships](word-vectors-simplified/word-vector-relationships.md)
   * [Role of Context in LLMs](word-vectors-simplified/role-of-context-in-llms.md)
-  * [Transforming Vectors into LLM Responses](word-vectors-simplified/transforming-vectors-into-llm-responses/README.md)
+  * [Transforming Vectors into LLM Responses](word-vectors-simplified/transforming-vectors-into-llm-responses.md)
     * [Neural Networks and Transformers (Bonus Module)](word-vectors-simplified/transforming-vectors-into-llm-responses/neural-networks-and-transformers-bonus-module.md)
     * [Attention and Transformers (Bonus Module)](word-vectors-simplified/transforming-vectors-into-llm-responses/attention-and-transformers-bonus-module.md)
     * [Multi-Head Attention and Further Reads (Bonus Module)](word-vectors-simplified/transforming-vectors-into-llm-responses/multi-head-attention-and-further-reads-bonus-module.md)

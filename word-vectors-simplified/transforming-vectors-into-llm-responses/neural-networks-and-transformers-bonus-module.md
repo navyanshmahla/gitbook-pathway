@@ -12,7 +12,7 @@ Today, we delve slightly into the core of these AI 'Optimus Primes'.&#x20;
 
 ### First things first: Neural Networks and RNNs
 
-Before we get into transformers, let's first understand the background. Let's start by getting a grip on neural networks. Imagine them as the brains inside computers, designed to make sense of all sorts of information, whether it's a picture, a piece of music, or a sentence.
+Before we get into transformers, let's first understand the background. Let's start by getting a quick understanding of neural networks. Imagine them as the brains inside computers, designed to make sense of all sorts of information, whether it's a picture, a piece of music, or a sentence.
 
 **Quick Look at Neural Networks**
 
@@ -21,14 +21,16 @@ Before we get into transformers, let's first understand the background. Let's st
 
 **Different Types for Different Tasks**
 
-* **For Images - Convolutional Neural Networks (CNNs):**
+* **Convolutional Neural Networks (CNNs):**
   * **Role:** CNNs are like the eyes of the AI world, great for understanding images.
   * **How They Work:** They break down images into smaller pieces and learn to recognize patterns, sort of like how we piece together a puzzle.
   * **Uses:** They're behind the magic of facial recognition and reading handwritten notes.
-* **For Language - Recurrent Neural Networks (RNNs):**
+* **Recurrent Neural Networks (RNNs):**
   * **Role:** RNNs are like the AI's language experts.
   * **How They Work:** They read sentences word by word, remembering each word as they go, much like reading a book.
   * **Challenges:** RNNs can get overwhelmed with really long texts, like a long paragraph, and sometimes forget the beginning by the time they reach the end. They also can be tough to train, with problems like forgetting earlier information (vanishing gradients) or learning too much all at once (exploding gradients).
   * **Uses:** They help in translating languages or powering chatbots.
 
-Neural networks, like different tools in a toolkit, are specialized for specific kinds of jobs. CNNs excel with images, while RNNs handle language. But, as we'll see next, transformers brought new abilities to the AI world, especially in dealing with language in a smarter way.
+Neural networks, like different tools in a toolkit, are specialized for specific kinds of jobs. CNNs excel with visuals, while RNNs handle language.&#x20;
+
+But, as we'll see next, transformers brought new abilities to the AI world, especially in dealing with language in a smarter way.

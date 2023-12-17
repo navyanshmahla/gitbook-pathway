@@ -23,7 +23,7 @@
   * [What is Prompt Engineering](prompt-engineering/what-is-prompt-engineering.md)
   * [Prompt Engineering and In-context Learning](prompt-engineering/prompt-engineering-and-in-context-learning.md)
   * [Best Practices to Follow in Prompt Engineering](prompt-engineering/best-practices-to-follow-in-prompt-engineering.md)
-  * [Token Limits | Prompt Engineering and Large Language Models](prompt-engineering/token-limits-or-prompt-engineering-and-large-language-models.md)
+  * [Token Limits in Prompts](prompt-engineering/token-limits-in-prompts.md)
   * [Prompt Engineering Excercise](prompt-engineering/prompt-engineering-excercise/README.md)
     * [Story for the Excercise: The eSports Enigma](prompt-engineering/prompt-engineering-excercise/story-for-the-excercise-the-esports-enigma.md)
     * [Tasks in the Excercise](prompt-engineering/prompt-engineering-excercise/tasks-in-the-excercise.md)

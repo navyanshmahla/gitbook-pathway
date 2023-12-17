@@ -1,6 +1,6 @@
 # Neural Networks and Transformers (Bonus Module)
 
-Now that you have an overview, let's dive a bit deeper in this bonus module. This Bonus Module will be easier to understand if you're already famililar with Neural Networks, Backpropogation, Sequence-to-sequence learning, and libraries such as NumPy.
+Now that you have an overview, let's dive a bit deeper into this bonus module. This Bonus Module will be easier to understand if you're already familiar with Neural Networks, Backpropagation, Sequence-to-sequence learning, and libraries such as NumPy.
 
 In the realm of machine learning, Transformers are akin to Optimus Prime in the Transformers movie series. Just as Optimus Prime can transform from a truck into a powerful leader, these models transform simple inputs into complex, insightful outputs, mastering tasks from language translation to code generation.
 

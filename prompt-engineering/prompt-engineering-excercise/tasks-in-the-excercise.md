@@ -14,7 +14,7 @@ Utilize a few-shot prompt that instructs ChatGPT to analyze the main characters'
 
 **Subtask 3: Limitation Recognition due to Outdated Data**
 
-Pose a question about the use of AI and machine learning algorithms in contemporary eSports as depicted in the story, asking for the latest advancements as of 2023. Evaluate ChatGPT's response for potential inaccuracies or outdated information given its last training data is from January 2022. Discuss how this limitation affects the believability of the plot and the technological aspects described in the story.
+Pose a question about the use of AI and machine learning algorithms in contemporary eSports as depicted in the story, asking for the latest advancements as of 2023. Evaluate ChatGPT's response for potential inaccuracies or outdated information given its last training data is from April 2023 (this date is certainly expected to change from time-to-time). Discuss how this limitation affects the believability of the plot and the technological aspects described in the story.
 
 
 

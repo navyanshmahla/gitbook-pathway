@@ -14,7 +14,7 @@ At the core of transformers is a technique called the "Attention Mechanism." Ini
 
 ### Scaled Dot-Product Attention
 
-The attention mechanism described in the paper [Attention is all you Need](https://arxiv.org/abs/1706.03762) is called _Scaled Dot-Product Attention_, and is defined via the forumula below:
+The attention mechanism described in the paper [Attention is all you Need](https://arxiv.org/abs/1706.03762) is called _Scaled Dot-Product Attention_, and is defined via the formula below:
 
 * $$\text{Attention}(Q, K, V) = \text{softmax}\left(\frac{QK^T}{\sqrt{d_k}}\right)V$$&#x20;
 * Here, $$Q$$, $$K$$, and $$V$$ represent matrices for queries, keys, and values. How do we get those matrices? We'll understand it soon. But for now, you can know that the formula calculates attention as a weighted sum of values, where the weights are determined by a compatibility function of the query with the corresponding keys.
@@ -36,13 +36,16 @@ Let's break down the process of calculating Q (Query), K (Key), and V (Value) in
 
 For example, in our example, we're using random numbers for simplicity. Let's say the embedding dimension is 3. The embeddings for the tokens might look like this after initialization:
 
-* <pre class="language-makefile" data-overflow="wrap"><code class="lang-makefile">Manchester: [ 0.321, -1.024,  0.876]
-  United:     [ 1.234,  0.567, -0.890]
-  <strong>hopes:    [-0.456,  0.789,  1.234]
-  </strong>to: [ 1.111, -0.333,  0.222]
-  perform:        [-0.777,  0.888, -0.999]
-  better:      [ 0.555, -0.666,  0.777]
-  </code></pre>
+* {% code overflow="wrap" %}
+  ```makefile
+  Manchester: [ 0.321, -1.024,  0.876]
+  United: [ 1.234,  0.567, -0.890]
+  hopes: [-0.456,  0.789,  1.234]
+  to: [ 1.111, -0.333,  0.222]
+  perform: [-0.777,  0.888, -0.999]
+  better: [ 0.555, -0.666,  0.777]
+  ```
+  {% endcode %}
 
 These numbers are arbitrary and for illustrative purposes only. In a real scenario, these embeddings would be learned and adjusted during the training process of the model.
 
@@ -124,7 +127,7 @@ The attention scores are computed by taking the dot product of the Q and K matri
 
 #### Step 4: Applying the Attention Scores to Values
 
-Finally, the attention scores are multiplied with the V matrix. This operation selectively weighs the importance of each value based on the computed attention scores. Example Code:
+Finally, the attention scores are multiplied by the V matrix. This operation selectively weighs the importance of each value based on the computed attention scores. Example Code:
 
 ```python
 attention_output = scores @ V

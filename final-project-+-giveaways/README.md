@@ -1,3 +1,10 @@
+---
+description: >-
+  Note: This module was specifically tailored for the live cohort during the
+  bootcamp. If you're accessing this coursework after the bootcamp has
+  concluded, it is not applicable for you.
+---
+
 # Final Project + Giveaways
 
 #### Welcome to the Final Stretch of Your Bootcamp Journey!&#x20;

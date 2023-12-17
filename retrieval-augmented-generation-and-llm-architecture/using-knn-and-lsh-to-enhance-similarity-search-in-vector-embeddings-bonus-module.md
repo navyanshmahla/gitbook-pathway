@@ -1,4 +1,4 @@
-# Bonus Resource – Using kNN and LSH to Enhance Similarity Search in Vector Embeddings
+# Using kNN and LSH to Enhance Similarity Search in Vector Embeddings (Bonus Module)
 
 Diving into the intricacies of kNN (k-Nearest-Neighbors) and LSH (Locality Sensitive Hashing), we find ourselves at the intersection of mathematics, data science, and algorithmic strategy.&#x20;
 
@@ -27,5 +27,11 @@ If you are keen on diving deeper into the intricacies of how kNN and LSH work to
 
 {% embed url="https://pathway.com/developers/showcases/lsh/lsh_chapter2" %}
 
-\
-\
+### Incremental Indexing in [LLM App](https://github.com/pathwaycom/llm-app)
+
+Building on similarity search, vector embeddings, and RAG, the next piece offers insights into managing vector indexes in dynamic settings, like an e-commerce platform with constantly changing product data.&#x20;
+
+It delves into LSM (Log-Structured Merge-tree) indexes and how Pathway's indexing approach for its RAG Framework – [LLM App](https://github.com/pathwaycom/llm-app) adapts to streaming (live) data, balancing computational efficiency with user needs. The article includes practical scenarios, such as table joins and real-time alerts in Pathway, enhancing your understanding of indexing in fluid data environments.
+
+{% embed url="https://pathway.com/developers/tutorials/indexes/" %}
+

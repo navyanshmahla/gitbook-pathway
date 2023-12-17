@@ -16,7 +16,7 @@ As the matches unfolded, Valérie's software hiccuped, whispering faulty strateg
 
 
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 \---
 

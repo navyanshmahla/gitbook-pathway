@@ -19,12 +19,12 @@ This way, your learning won't interfere with other academic or professional comm
 
 * **Fireside Chat with Jan Chorowski | Exploring the Frontiers of Large Language Models**:&#x20;
   * On 2nd November, at 6 am PDT / 3 pm CEST / 6:30 pm IST, we hosted an iconic chat around LLMs with [Jan Chorowski](https://scholar.google.com/citations?user=Yc94070AAAAJ\&hl=en) and [Anup Surendran](https://www.linkedin.com/in/anupsurendran/).&#x20;
+  * You can find this session recording after the RAG Module as a Bonus Resource.&#x20;
   * In the session, we will delved into topics like:
     * The potentials and boundaries of LLMs.
     * Overcoming challenges in deploying LLM applications.
     * Strategies for building real-time LLM apps.
     * The intriguing concept of "Learning to Forget" in Large Language Models.
-  * You can find this session recording after the RAG Module as a Bonus Resource.
 
 ### Addressing Doubts
 
@@ -38,4 +38,4 @@ This way, your learning won't interfere with other academic or professional comm
 ### Quick Checks
 
 * **WhatsApp Community**: If you've shared your contact during registration, you should've been added to a WhatsApp group managed by AI Community IIT Bombay and WnCC IIT Bombay in collaboration with Pathway. If not, please contact [wncc@iitb.ac.in](mailto:wncc@iitb.ac.in).
-
+* If you happen to come across this coursework after the conclusion of the bootcamp cohort, there's no need to be concerned if you haven't been added to the WhatsApp community. We wholeheartedly encourage you to proceed with the valuable insights gained from this course and actively participate in the open-source community of Pathway. Should any questions arise along the way, please don't hesitate to seek assistance within the community; your inquiries are always welcome.

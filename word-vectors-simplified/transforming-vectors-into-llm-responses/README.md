@@ -25,6 +25,7 @@ Now that you understand the role of "context," you might want to grasp some conc
 
 If you're interested in delving further into the details, you may find the following links on embeddings, attention mechanisms, and encoder-decoder architecture beneficial. A foundational understanding of neural networks, backpropagation, the softmax function, and cross-entropy will enhance your comprehension of these resources. These topics are not the primary focus of this course, so they're provided as bonus links.
 
+* **Understanding Transformers:** Check the Bonus Module Right Ahead.
 * [Attention mechanism: Overview](https://youtu.be/fjJOgb-E41w?t=18) | Short Video by Google Cloud
 * [Word2Vec and Word Embeddings](https://youtu.be/viZrOnJclY0) | Video by StatQuest
 * [Seq2Seq Encoder-Decoder Neural Networks](https://youtu.be/L8HKweZIOmg) | Video by StatQuest

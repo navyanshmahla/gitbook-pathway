@@ -31,7 +31,7 @@ This way, your learning won't interfere with other academic or professional comm
 * **Self-Reliance**: Our philosophy revolves around nurturing independent learners. While our guidance is continuous, we urge you to harness the expansive knowledge available online, exploring answers through search engines and existing literature.
 * **Communication Channels**: Ensure you're part of [Pathway's Discord](https://discord.gg/AyEbJbSZ) for asking doubts directly to the creators of the framework we've covered ahead. This being said, please use Google Search, ChatGPT, or other tools at your disposal to try to find the answer yourself. If you're unable to do so, as a best practice, unresolved queries can be raised via GitHub issues and then their link can be shared on Discord.&#x20;
 
-### Bonus Resources
+### Bonus Resources & Bonus Modules
 
 * From time-to-time, you'll find Bonus Resources alongside your coursework. These resources are optional and not essential for quizzes or project completion. They're designed to deepen your understanding, complementing the core material which is succinctly crafted for those eager to develop their first real-time LLM application. Feel free to explore these additional materials at your leisure for a broader and more detailed learning experience.
 

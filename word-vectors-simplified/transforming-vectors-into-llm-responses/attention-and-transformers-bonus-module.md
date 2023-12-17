@@ -29,23 +29,20 @@ Let's break down the process of calculating Q (Query), K (Key), and V (Value) in
 
 #### Step 1: Getting the vector embeddings
 
-* For example, let's take this sentence "Manchester United Manager apologizes, yet again."
-* Now the first thing we know is that the sentence is split into words or sub-words, known as tokens. So, we get tokens like \["Manchester", "United", "Manager", "apologizes", "yet", "again"]. Each token is then mapped to a unique integer for ease of processing. Here, let's say it's \[0, 1, 2, 3, 4, 5].
+* For example, let's take this sentence "Manchester United hopes to perform better."
+* Now the first thing we know is that the sentence is split into words or sub-words, known as tokens. So, we get tokens like \["Manchester", "United", "hopes", "to", "perform", "better"]. Each token is then mapped to a unique integer for ease of processing. Here, let's say it's \[0, 1, 2, 3, 4, 5].
 * In practice, an embedding matrix is created where each row corresponds to the embedding of a token. The size of this matrix is typically \[vocabulary size x embedding dimension]. For large models like GPT, the vocabulary size is vast, often in the range of tens of thousands, and the embedding dimension can be large as well, such as 768 or more.
 * **Note**: Initially, the values in the embedding matrix are randomly initialized. This means that each token is assigned a random vector. During the training phase, these random embeddings are gradually adjusted through [backpropagation](https://youtu.be/IN2XmBhILt4). Backpropagation is a method used to improve neural networks by going backwards through the network to fine-tune how it makes decisions, based on the errors it made. The model learns to change these embeddings to capture semantic meanings and relationships between words.
 
 For example, in our example, we're using random numbers for simplicity. Let's say the embedding dimension is 3. The embeddings for the tokens might look like this after initialization:
 
-* {% code overflow="wrap" %}
-  ```makefile
-  Manchester: [ 0.321, -1.024,  0.876]
+* <pre class="language-makefile" data-overflow="wrap"><code class="lang-makefile">Manchester: [ 0.321, -1.024,  0.876]
   United:     [ 1.234,  0.567, -0.890]
-  Manager:    [-0.456,  0.789,  1.234]
-  apologizes: [ 1.111, -0.333,  0.222]
-  yet:        [-0.777,  0.888, -0.999]
-  again:      [ 0.555, -0.666,  0.777]
-  ```
-  {% endcode %}
+  <strong>hopes:    [-0.456,  0.789,  1.234]
+  </strong>to: [ 1.111, -0.333,  0.222]
+  perform:        [-0.777,  0.888, -0.999]
+  better:      [ 0.555, -0.666,  0.777]
+  </code></pre>
 
 These numbers are arbitrary and for illustrative purposes only. In a real scenario, these embeddings would be learned and adjusted during the training process of the model.
 

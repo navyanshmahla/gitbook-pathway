@@ -1,6 +1,6 @@
-# Repository Walkthrough
+# Step-by-Step Process
 
-In the particular example, we'll dive a bit deeper to show you how this particular application was made so you can make one of your own.
+In this particular example, we'll dive a bit deeper to show you how this particular application was made so you can make one of your own.
 
 ### Link to the Project
 
@@ -9,9 +9,9 @@ In the particular example, we'll dive a bit deeper to show you how this particul
 
 ### Step by Step Process to Build the Application
 
-A good way to understand the code here would be to read the Streamlit blog below which features the open source application developed by Bobur.&#x20;
+A good way to understand the code here would be to read the Streamlit (a Snowflake product) blog below which features the open source application developed by Bobur.&#x20;
 
-It's a friendly and easy to understand blog that also shows how the application interacts with users via an HTTP REST API and works in real-time, offering support for various data types like JSON Lines and Rainforest Product API.
+It's a friendly and easy-to-understand blog that also shows how the application interacts with users via an HTTP REST API and works in real-time, offering support for various data types like JSON Lines and Rainforest Product API.
 
 {% embed url="https://blog.streamlit.io/build-a-real-time-llm-app-without-vector-databases-using-pathway/" fullWidth="false" %}
 

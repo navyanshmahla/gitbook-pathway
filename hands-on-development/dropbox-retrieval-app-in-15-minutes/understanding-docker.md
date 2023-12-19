@@ -1,4 +1,4 @@
-# Understanding What is Docker
+# Understanding Docker
 
 This particular page is to help you build the previous file if you're new to Docker and are struggling in installing depencies on your machine.&#x20;
 
@@ -21,5 +21,11 @@ Given the complexities and manual effort involved in resolving dependency issues
 * **Docker Container**: A container is a running instance of an image. It's a lightweight, stand-alone, executable software package that includes everything needed to run the code.
 * **CMD**: In Docker, the `CMD` instruction specifies the command that will be executed when the container starts up.
 * **Docker Compose:** A tool for defining and running multi-container Docker applications. Using a YAML file (`docker-compose.yml`), it allows you to specify how different containers interact with each other, making it easier to manage multiple containers as a single service.
+
+### Resources to Understand Docker Better
+
+* Basic Tutorial on Dockerfile: [Here](https://youtu.be/0eMU23VyzR8)
+* Basic Tutorials on Docker Compose: [Part 1 using (Single Container)](https://youtu.be/600SC33F6Ag), [Part 2 (using 2 Containers)](https://youtu.be/WBqHr2kPc\_A)
+* Blog on using ChatGPT to build an optimized Docker Image: [3-Minute Read](https://collabnix.com/when-chatgpt-meet-docker-for-the-first-time/)
 
 Now let's see the step-by-step implementation.

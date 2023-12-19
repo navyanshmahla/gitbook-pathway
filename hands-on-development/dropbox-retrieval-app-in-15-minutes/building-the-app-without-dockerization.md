@@ -1,13 +1,15 @@
 # Building the app without Dockerization
 
-Next, you can explore a video tutorial by Richard Pelgrim, a Developer Advocate in the stream data processing space, demonstrating how they harnessed the Dropbox document sync application to create an RAG app.&#x20;
+Next, you can explore a video tutorial by Richard Pelgrim, a Developer Advocate in the stream data processing space, demonstrating how they harnessed the Dropbox document sync application to create a RAG app.&#x20;
 
 **Link to the Project**
 
-* The repository being referred to, can be found here **-** [**https://github.com/pathway-labs/dropbox-ai-chat**](https://github.com/pathway-labs/dropbox-ai-chat)**.** Make sure to star it. :star:
+* The repository being referred to can be found here **-** [**https://github.com/pathway-labs/dropbox-ai-chat**](https://github.com/pathway-labs/dropbox-ai-chat)**.** Make sure to star it. :star:
 * If you struggle to build the application with the help of README on the GitHub repo above, the video and the description below should help you with it.&#x20;
 
-This app proves invaluable in simplifying the comprehension of the recently released EU AI Act. Feel free to let your creative juices flow to imagine possibilities that you can open with such an application.
+Navigating the maze of new regulations, like the EU AI Act, can be a complex challenge for founders and data practitioners. This app which leverages the Dropbox example, aims to make understanding these regulations more straightforward. Imagine a tool that helps you dissect and comprehend these intricate policies, easing the process of staying compliant and informed.&#x20;
+
+As you explore this application, think of the diverse scenarios you can open just with the Dropbox AI Chat example that we're seeing here.
 
 {% embed url="https://youtu.be/PbSAYHi5gnM" %}
 

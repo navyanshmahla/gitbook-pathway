@@ -10,5 +10,5 @@ While we're working with this tool, consider starring it on GitHub. It is an eff
 
 By the end of this module, you'll be able to **build your LLM application** that works with realtime data. This implementation guide is aimed at users of Mac, Linux, and Windows systems.
 
-**Note:** If you have already initiated your first project by consulting the documentation on the LLM App's open-source repository and have successfully completed it, that's excellent! In that scenario, you may choose to review the videos in this module for additional perspective. Otherwise, feel free to proceed to the '[Final Project + Giveaways](../final-project-+-giveaways/)' module.
+**Note:** If you have already completed your first project by consulting the documentation on the LLM App's open-source repository, that's excellent! In that scenario, you may choose to review the videos in this module for additional perspective and proceed to the '[Final Project + Giveaways](../final-project-+-giveaways/)' module.
 

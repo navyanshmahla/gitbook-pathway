@@ -1,12 +1,12 @@
 # How to Run the Examples
 
-Congratulations for coming this far! :tada:
+Congratulations on coming this far! :tada:
 
 Let's say you want to go beyond the Amazon Discounts App and Dropbox Retrieval App. This module is to make it easy for you to build and run your applications using Examples on the [LLM App](https://github.com/pathwaycom/llm-app).&#x20;
 
 ### What are the Examples offered?
 
-The repository offers multiple possible use-cases under its [`examples`](https://github.com/pathwaycom/llm-app/tree/main/examples/pipelines) folder to illustrate various use-cases
+The repository offers multiple possible use cases under its [`examples`](https://github.com/pathwaycom/llm-app/tree/main/examples/pipelines) folder to illustrate various areas of application.
 
 Once you've **cloned the LLM App** repository and set up the **environment variables** (as per the steps mentioned on [this link](https://github.com/pathwaycom/llm-app#step-1-clone-the-repository)), you're all set to run the examples.&#x20;
 
@@ -55,8 +55,3 @@ That's it! :smile:
 By following these steps, you're not just running code; you're actively engaging with the LLM App’s rich feature set, which can include anything from real-time data syncing to model monitoring.&#x20;
 
 It's a step closer to implementing your LLM application that can have a meaningful impact.
-
-***
-
-\
-\

@@ -35,7 +35,7 @@ git pull https://github.com/pathway-labs/dropbox-ai-chat
 * If you're using macOS, the `.env` file might be hidden by default when viewed through Finder but is visible via Terminal. This being said, regardless of the OS, it's important to note that this file plays a pivotal role.
 * The primary change you'll make in this entire implementation is to the `{PATH_TO_DROPBOX}` variable, which the  `.env` file uses.
 
-**Understanding `PATH_TO_DROPBOX`** **variable used here:**
+**Understanding `DROPBOX_LOCAL_FOLDER_PATH`** **variable used here:**
 
 * This variable defines the **relative path** from your project to your Dropbox folder.
 * If you want to quickly understand how relative path works in the context of Linux, you can check this quick [video by Udacity](https://youtu.be/ephId3mYu9o) or read these comprehensive explanations by [RedHat](https://www.redhat.com/sysadmin/linux-path-absolute-relative) or [Coding Rooms](https://www.codingrooms.com/blog/file-paths).&#x20;
@@ -66,7 +66,7 @@ git pull https://github.com/pathway-labs/dropbox-ai-chat
        MODEL_LOCATOR=gpt-3.5-turbo
        MAX_TOKENS=200
        TEMPERATURE=0.0
-       PATH_TO_DROPBOX={REPLACE_WITH_DROPBOX_RELATIVE_PATH}
+       DROPBOX_LOCAL_FOLDER_PATH={REPLACE_WITH_DROPBOX_RELATIVE_PATH}
        ```
    3.  **Alternative to using `export`**: If `.env` doesn't work for you, you can set these variables directly in your shell using the command below. However, it is important to note that variables set with `export` (Linux/macOS) or `set` (Windows, as seen below) last only for the current session. If you want them to persist, you'll need to add them to shell configuration files like add to `.bashrc` or `.bash_profile` for Linux/macOS, or use System Properties on Windows.\
 
@@ -77,10 +77,8 @@ git pull https://github.com/pathway-labs/dropbox-ai-chat
        export MODEL_LOCATOR=gpt-3.5-turbo
        export MAX_TOKENS=200
        export TEMPERATURE=0.0
-       export PATH_TO_DROPBOX={REPLACE_WITH_DROPBOX_RELATIVE_PATH}
+       export DROPBOX_LOCAL_FOLDER_PATH={REPLACE_WITH_DROPBOX_RELATIVE_PATH}
        </code></pre>
-
-
 
 **Setting the environment variables in Windows:**
 
@@ -99,7 +97,7 @@ git pull https://github.com/pathway-labs/dropbox-ai-chat
     set MODEL_LOCATOR=gpt-3.5-turbo
     set MAX_TOKENS=200
     set TEMPERATURE=0.0
-    set PATH_TO_DROPBOX={REPLACE_WITH_DROPBOX_RELATIVE_PATH}
+    set DROPBOX_LOCAL_FOLDER_PATH={REPLACE_WITH_DROPBOX_RELATIVE_PATH}
     ```
     {% endcode %}
 

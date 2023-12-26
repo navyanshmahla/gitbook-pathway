@@ -6,7 +6,7 @@
   * [Course Structure](introduction/course-structure.md)
   * [Pre-Requisites](introduction/objectives-and-pre-requisites.md)
   * [Greetings from your Instructors](introduction/greetings-from-your-instructors.md)
-  * [First Exercise (Ungraded)](introduction/first-exercise-ungraded.md)
+  * [First Exercise (Ungraded)](introduction/first-exercise-ungraded-and-basic-checks.md)
 * [Basics of LLM](basics-of-llm/README.md)
   * [What is Generative AI?](basics-of-llm/what-is-generative-ai.md)
   * [What is a Large Language Model?](basics-of-llm/what-is-a-large-language-model.md)

@@ -4,7 +4,7 @@ To make this course interactive and engaging, let's get started with a small exe
 
 *   **Star the GitHub Repo**:&#x20;
 
-    * We invite you to visit the [Pathway](https://github.com/pathwaycom/pathway) and the [LLM App GitHub repository](https://github.com/pathwaycom/llm-app) and give it a star if you like the work . Doing so will show your support and keep you updated as the project evolves. &#x20;
+    * We invite you to visit the [Pathway](https://github.com/pathwaycom/pathway) and the [LLM App GitHub repository](https://github.com/pathwaycom/llm-app) and give it a star if you like the work. Doing so will show your support and keep you updated as the project evolves. &#x20;
 
 
 * **Join** [**Pathway’s Discord**](https://discord.gg/SzSHw8Hd) **community:**&#x20;

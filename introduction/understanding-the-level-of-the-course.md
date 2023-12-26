@@ -16,7 +16,7 @@ However, reading the course introduction is highly recommended. If you prefer, y
 * **Intermediate Exploration**: As we navigate deeper waters, we touch upon essential components like vector indices, word vectors, and the intricate art of prompt engineering.
 * **Advanced Insights**: The final stretch of our curriculum focuses on in-depth topics such as RAG, LLM Architecture, LLM Pipelines, and hands-on development exercises.
 
-**Note:** We'll be releasing modules gradually during the bootcamp. You'll be notified when they're released.
+**Note:** Consider your existing knowledge when tackling this coursework. If you're starting from scratch, this coursework could be a bit overwhelming to be completed in 10 days, especially with the hands-on project and bonus resources. These timelines were implemented back when the cohort was active, taking into account the academic semester exams schedule and an upcoming R\&D expo at IIT Bombay. However, if you're taking a self-paced approach as an independent learner, take the time to assess your current understanding, explore the curriculum, and create a practical schedule that aligns with your existing knowledge and capacity. Happy learning!
 
 ### The power of Real-time Data and Large Language Models
 
@@ -49,7 +49,7 @@ Pathway is the world's fastest data processing engine ([benchmarks](https://path
 
 ### Why is Pathway so Fast <a href="#why-is-pathway-so-fast" id="why-is-pathway-so-fast"></a>
 
-The Pathway engine is built in Rust. The team at Pathway loves Rust 🦀. Rust is built for speed, parallel computation and low-level control over hardware resources. This allows us to execute maximum optimization for performance and speed.
+The Pathway engine is built in Rust. The team at Pathway loves Rust 🦀. Rust is built for speed, parallel computation and low-level control over hardware resources. This allows them to execute maximum optimization for performance and speed.
 
 They also share our love for Python 🐍. Which is why Pathway is made in a way that when you write your data processing code in Python, Pathway will automagically compile it into a Rust dataflow. In other words, using Pathway you don’t need to know anything about Rust to enjoy its enormous performance benefits! For now, this is a simple enough starting point (that said, feel free to find more details in Pathway's [ArXiv Paper](https://arxiv.org/abs/2307.13116) – your first bonus resource 🙂).
 

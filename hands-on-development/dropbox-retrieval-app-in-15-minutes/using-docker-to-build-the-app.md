@@ -1,6 +1,6 @@
 # Using Docker to Build the App
 
-Welcome to this module on how to use **Docker** to set up and run the Dropbox AI Chat application. Before we begin, it's essential to ensure that you meet the prerequisites and understand each step thoroughly.
+Welcome to this module on using the **Dockerized Application** to set up and run the Dropbox AI Chat application. Before we begin, it's essential to ensure that you meet the prerequisites and understand each step thoroughly.
 
 **Basic Prerequisites:**
 
@@ -24,7 +24,7 @@ If you have previously cloned an older version of the repository, ensure you're 
 git pull https://github.com/pathway-labs/dropbox-ai-chat
 ```
 
-**What this does:**The git pull command will update your local repository with the latest changes from the remote repository.
+**What this does:** The git pull command will update your local repository with the latest changes from the remote repository.
 
 ### Step 2: Setting the Environment Variables
 
@@ -32,7 +32,7 @@ git pull https://github.com/pathway-labs/dropbox-ai-chat
 **Overview**:
 
 * The `.env` file sets crucial environment variables for your application.&#x20;
-* If you're using macOS, the `.env` file might be hidden by default when viewed through Finder but is visible via Terminal. This being said, regardless of the OS, it's important to note that this file plays a pivotal role.
+* If you're using macOS, the `.env` file might be hidden by default when viewed through Finder but is visible via Terminal. Regardless of the OS, it's important to note that this file plays a pivotal role.
 * The primary change you'll make in this entire implementation is to the `{PATH_TO_DROPBOX}` variable, which the  `.env` file uses.
 
 **Understanding `DROPBOX_LOCAL_FOLDER_PATH`** **variable used here:**
@@ -56,7 +56,7 @@ git pull https://github.com/pathway-labs/dropbox-ai-chat
    \
    **Note:** Replace the following while using the environment variables from below:&#x20;
    1. &#x20;`{OPENAI_API_KEY}` with your OpenAI API key. You can get from [here](https://platform.openai.com/account/api-keys) once you've logged in)&#x20;
-   2.  `{REPLACE_WITH_DROPBOX_RELATIVE_PATH}` with the relative path where Dropbox folder is located\
+   2.  `{REPLACE_WITH_DROPBOX_RELATIVE_PATH}` with the relative path where the Dropbox folder is located\
 
 
        ```
@@ -114,7 +114,7 @@ docker-compose up
 
 **Behind the Scenes with Docker:**
 
-* **Dockerfile**: This file contains a set of instructions that Docker follows to build an image. It's like a blueprint for your application. Docker reads these instructions and creates a Docker image based on them. This image contains everything your app needs to run.
+* **Dockerfile**: This file contains instructions that Docker follows to build an image. It's like a blueprint for your application. Docker reads these instructions and creates a Docker image based on them. This image contains everything your app needs to run.
 * **docker-compose**: It's a tool for defining and running multi-container Docker applications. In our context, `docker-compose` uses the `docker-compose.yml` file to understand how to set up and run the app's services.&#x20;
 * When you run `docker-compose up`, it starts the services as defined.
 

@@ -1,14 +1,13 @@
-# Token Limits | Prompt Engineering and Large Language Models
+# Token Limits in Prompts
 
-By now, you know LLMs are the AI powerhouses trained on heaps of data, and prompts are what enable you to make the most out of them.&#x20;
+By now, you know LLMs are the AI powerhouses trained on heaps of data, and prompts enable you to make the most out of them.&#x20;
 
-However, it’s important to learn that different LLMs have specific token limits that define their performance. Ideally, when you’re creating your prompt, you need to ensure that you’re not crossing these token limits. Let’s understand this concept quickly.
+However, it’s important to learn that different LLMs have specific token limits that define their performance. Ideally, when creating your prompt, you need to ensure you’re not crossing these token limits. Let’s understand this concept quickly.
 
 * Token Limits: These dictate how many tokens an LLM can handle in one go.
 * Estimated Word Counts: This refers to the approximate number of words that can fit within a model’s token limit. It helps you gauge how much content you can generate or process.
 
-If you try copy-pasting a long Wikipedia article (for example, that of Google), you’ll notice an error.\
-
+You'll notice an error if you try copy-pasting a lengthy Wikipedia article (for example, that of Google).
 
 <figure><img src="https://lh7-us.googleusercontent.com/RQJ9ihv8p-nSve8fMd6Rrwf1vLFW5F8dvEm3Qw2itfONS4JKx9eqwSo_WyA8BGptZWgN1b0ZfhJceTSHBA1K434uT27WNAlV-6ZYlVLrWaeu6ZNg8BFw78lHIzk4WP_92tmMTcfabsLDhdq6ld5kYsg" alt=""><figcaption></figcaption></figure>
 

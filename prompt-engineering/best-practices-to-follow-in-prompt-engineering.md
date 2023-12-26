@@ -52,7 +52,7 @@ When you give more examples to the model, it gets better at understanding what y
 
 **One-Shot Prompting:**
 
-* You give the model one example to help it understand what you're asking.
+* You give the model one example to help it understand your question.
 * Example:
 
 &#x20;     "For instance, a dog is a pet. Now, is a goldfish a pet or not a pet?"
@@ -63,7 +63,7 @@ When you give more examples to the model, it gets better at understanding what y
 
 **Few-Shot Prompting:**
 
-* You give the model several examples to make sure it really understands what you're asking.
+* You give the model several examples to ensure it understands your question.
 * Example:
 
 &#x20;     "A dog is a pet."
@@ -76,18 +76,18 @@ When you give more examples to the model, it gets better at understanding what y
 
 
 
-In this example, all prompting types resulted in the same answer: "Pet". However, with few-shot prompting, you can be more confident that the model truly understands what you mean by "pet" since it has more examples to learn from. Usually, giving more examples (few-shots) helps the model give better answers, especially for more complicated questions.
+In this example, all prompting types resulted in the same answer: "Pet". However, with few-shot prompting, you can be more confident that the model truly understands what you mean by "pet" since it has more examples to learn from. Usually, giving more examples (few shots) helps the model give better answers, especially for more complicated questions.
 
 Thumb rule, Zero-shot, one-shot, and few-shot prompting have distinct advantages and challenges. Zero-shot is more open-ended while few-shot is more controlled.
 
 ### Elements of a Prompt: Know the Ingredients
 
-* Instruction: The task you want the model to perform.
+* Instruction: What task do you want the model to perform?
 * Context: Additional information that can steer the model.
 * Input Data: The question or data of interest.
 * Output Indicator: Desired format or type of the output.
 
-You don't always need all these elements; it depends on your specific needs.
+You don't always need all these elements; it depends on your needs.
 
 ### General Tips: The Do's and Don'ts
 

@@ -1,6 +1,6 @@
-# Live Interaction with Jan Chorowski | Bonus Resource
+# Live Interactions with Jan Chorowski and Adrian Kosowski | Bonus Resource
 
-As a part of this bootcamp, we also hosted a captivating Fireside Chat featuring Jan Chorowski, CTO of Pathway. Jan is a renowned figure in the field of Artificial Intelligence with a PhD in Neural Networks and a portfolio that includes more than 10k+ citations and collaborations on research papers with AI pioneers like Geoff Hinton and Yoshua Bengio.
+As a part of this bootcamp, we hosted a captivating **Fireside Chat featuring Jan Chorowski**, CTO of Pathway. Jan is a renowned figure in Artificial Intelligence with a Ph.D. in Neural Networks and a portfolio that includes more than 10k+ citations and collaborations on research papers with AI pioneers like Geoff Hinton and Yoshua Bengio.
 
 During this captivating Fireside Chat, our host, Anup Surendran, engaged in a deep exploration of the captivating realm of Large Language Models (LLMs) alongside Jan. Their dynamic discussion spanned a wide spectrum of LLM topics, encompassing their diverse applications, the operational hurdles they face, and the intriguing concept of 'learning to forget.' Moreover, the conversation delved into the real-time capabilities of LLMs and illuminated their paramount importance in the ever-evolving landscape of modern technology.
 

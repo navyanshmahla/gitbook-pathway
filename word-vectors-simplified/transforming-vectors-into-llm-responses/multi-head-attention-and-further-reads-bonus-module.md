@@ -2,11 +2,11 @@
 
 Building on the foundation of self-attention, Transformers use a more refined approach using the concept of **Multi-Head Attention**. This mechanism enhances the model's ability to focus on different parts of the input for various reasons.
 
-### Let's understand Multi-Head Attention
+### Let's understand Multi-Head Attention.
 
 The basic idea of multi-head attention is simple. Think of Multi-Head Attention as having several pairs of eyes (or "heads") looking at the same sentence. Each pair of eyes focuses on different parts of the sentence, capturing various details.
 
-* How it makes a difference: Normally, in attention mechanisms, we use one set of Q (query), K (key), and V (value) to understand the sentence. In Multi-Head Attention, we split this process into <mark style="color:yellow;">several smaller parts</mark>, with each part having its own Q, K, and V. This means we can pay attention to different parts of the sentence simultaneously.
+* How it makes a difference: Normally, in attention mechanisms, we use one set of Q (query), K (key), and V (value) to understand the sentence. In Multi-Head Attention, we split this process into <mark style="color:blue;background-color:yellow;">several smaller parts</mark>, each with its own Q, K, and V. This means we can pay attention to different parts of the sentence simultaneously.
 * This method allows us to get a richer understanding of the sentence. Each head might notice different things - some might focus on grammar, while others might look for emotion or specific keywords.
 
 Example in Simple Code:
@@ -55,7 +55,7 @@ The first formula here is for calculating PE (Positional Encodings) for even ind
 
 <figure><img src="../../.gitbook/assets/attention_research_1-768x1082.webp" alt="" width="375"><figcaption><p>Source: Attention Is All You Need" by Vaswani et al</p></figcaption></figure>
 
-The Transformer model's architecture, prominently featuring an Encoder and a Decoder, is a marvel of design in language processing. The left side of the diagram is the Encoder: This part of the model processes the input data. And the right side is the Decoder, which is responsible for generating the output, based on the processed input from the Encoder.&#x20;
+The Transformer model's architecture, prominently featuring an Encoder and a Decoder, is a marvel of design in language processing. The left side of the diagram is the Encoder: This part of the model processes the input data. The right side is the Decoder, which is responsible for generating the output based on the processed input from the Encoder.&#x20;
 
 By now, you can already recognize a few of the components in this diagram. Before we quickly summarize how it works, let's cover some key components we haven't discussed yet.
 
@@ -71,9 +71,30 @@ By now, you can already recognize a few of the components in this diagram. Befor
 
 ### Video Lecture on Transformers by Andrej Karpathy
 
-To enhance your understanding of this topic further, we recommend watching a detailed video by Andrej Karpathy, who previously led the AI team at Tesla. His session at Stanford University can provide a deeper and more nuanced perspective on the subject.
+To deepen your grasp of transformers in AI, consider exploring a lecture by Andrej Karpathy, who has made significant contributions to AI, including leading the AI team at Tesla. His session at Stanford University offers a comprehensive look at the role of transformer models in modern AI applications, making it a valuable resource for those keen to understand this advanced technology.
+
+**Key Takeaways of the Session:**
+
+* Overview of transformers, focusing on their role in generative models and potential in advanced applications like video understanding.
+* Evolution from conventional neural networks to transformers, highlighting their impact in natural language processing and machine translation.
+* A detailed look at the transformer's learning process, including multi-headed attention and backpropagation, for efficient data handling.
+* Discussion on causal self-attention in transformers, crucial for accurate future predictions in applications like those at Tesla.
+* The transformer's versatility and future potential, with a nod to possible advancements in AI learning and application breadth.
 
 {% embed url="https://www.youtube.com/watch?v=XfpMkf4rD6E&t=615s" %}
+
+### Bonus Resource: Lecture on Vision Transformers by Dr. Vijay S Agneeswaran
+
+After exploring Transformers architecture, consider viewing a session at IIT Guwahati, which is available on [Pathway's YouTube channel](https://www.youtube.com/@pathwaycom). This session, featuring Vijay, a Senior Director and ML Research Leader at Microsoft, sheds light on the latest in computer vision, vision transformers, and their role in Large Language Models (LLMs).
+
+**Key Takeaways of the Session:**
+
+* The transition from traditional convolutional networks to pre-trained transformers in computer vision.
+* The synergy between these advanced transformers and LLMs leading to enhanced image classification and other tasks.
+* Insight into Scattering Vision Transformers (SVT), detailing their development, technical aspects, and performance.
+* Demonstration of SVT's leading performance in tasks like image classification (ImageNet dataset) and instance segmentation (MSCoco dataset).
+
+{% embed url="https://youtu.be/pM-55w3VT2I" %}
 
 ### Resources for Further Study
 

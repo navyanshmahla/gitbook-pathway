@@ -2,13 +2,13 @@
 
 Congratulations on coming this far! :tada:
 
-Let's say you want to go beyond the Amazon Discounts App and Dropbox Retrieval App. This module is to make it easy for you to build and run your applications using Examples on the [LLM App](https://github.com/pathwaycom/llm-app).&#x20;
+Let's say you want to go beyond the Amazon Discounts App and Dropbox Retrieval App. This module is to make it easy for you to build and run your applications using `examples` on the [LLM App](https://github.com/pathwaycom/llm-app).&#x20;
 
 ### What are the Examples offered?
 
 The repository offers multiple possible use cases under its [`examples`](https://github.com/pathwaycom/llm-app/tree/main/examples/pipelines) folder to illustrate various areas of application.
 
-Once you've **cloned the LLM App** repository and set up the **environment variables** (as per the steps mentioned on [this link](https://github.com/pathwaycom/llm-app#step-1-clone-the-repository)), you're all set to run the examples.&#x20;
+Once you've **cloned the LLM App** repository and set up the **environment variables** (per the steps mentioned on [this link](https://github.com/pathwaycom/llm-app#step-1-clone-the-repository)), you're all set to run the examples.&#x20;
 
 Below is a table that shares the types of examples you can explore.&#x20;
 
@@ -37,14 +37,16 @@ cd llm-app
 
 **2 -** Choose Your Example. The examples are located in the [`examples`](https://github.com/pathwaycom/llm-app/tree/main/examples/pipelines) folder. Say you want to run the 'alert' example. You have two options here:
 
-*   **Option 1**: Run the centralized example runner. This allows you to quickly switch between different examples:
+*   **Option 1**: Run the centralized example runner. This allows you to switch between different examples quickly:\
+
 
     <pre class="language-bash"><code class="lang-bash"><strong>python run_examples.py alert
     </strong></code></pre>
 
 ***
 
-*   **Option 2**: Navigate to the specific pipeline folder and run the example directly. This option is more focused and best if you know exactly which example you're interested in:
+*   **Option 2**: Navigate to the specific pipeline folder and run the example directly. This option is more focused and best if you know exactly which example you're interested in:\
+
 
     ```bash
     python examples/pipelines/contextful/app.py
@@ -52,6 +54,6 @@ cd llm-app
 
 That's it! :smile:
 
-By following these steps, you're not just running code; you're actively engaging with the LLM App’s rich feature set, which can include anything from real-time data syncing to model monitoring.&#x20;
+By following these steps, you're not just running code but actively engaging with the LLM App’s rich feature set, including anything from real-time data syncing to model monitoring.&#x20;
 
 It's a step closer to implementing your LLM application that can have a meaningful impact.

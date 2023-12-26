@@ -8,11 +8,11 @@ Imagine you're trying to understand the word "apple." Without context, it could 
 
 ### Technical Explanation Made Simple
 
-In general, large language models like GPT-4 or Llama use various techniques to understand the context surrounding each word. For instance, GPT-4 leverages a popular and efficient technique called the "attention mechanism," which helps the model focus on different parts of the text to understand it better. However, older models might use other strategies like Recurrent Neural Networks (RNNs) or Long Short-Term Memory Networks (LSTMs) to capture context in a different way.
+Large language models like GPT-4 or Llama use various techniques to understand the context surrounding each word. For instance, GPT-4 leverages a popular and efficient technique called the "attention mechanism," which helps the model focus on different parts of the text to understand it better. However, older models might use other strategies like Recurrent Neural Networks (RNNs) or Long Short-Term Memory Networks (LSTMs) to capture context differently.
 
-Whether it's attention mechanisms or RNNs, the goal is the same: to give the model a better understanding of how words relate to each other. This understanding is crucial for tasks like language translation, text summarisation, and question answering.
+Whether it's attention mechanisms or RNNs, the goal is to give the model a better **understanding of how words relate to each other**. This understanding is crucial for tasks like language translation, text summarisation, and question answering.
 
-### &#x20;Now you know how Context Matters
+### &#x20;Now you know how Context Matters.
 
 Context is not just a technical requirement but a functional necessity. By understanding the context, these models can perform tasks ranging from simple ones like spelling correction to complex ones like reading comprehension.
 

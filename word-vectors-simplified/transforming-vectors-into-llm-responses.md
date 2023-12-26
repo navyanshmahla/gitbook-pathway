@@ -16,10 +16,10 @@ _(Credits: Build on AWS)_
 
 Here you see how a Large Language Model’s job is to predict the next word based on the context.&#x20;
 
-Now that you understand the role of "context," you might want to grasp some concepts to appreciate how these models work at a granular level. These are bonus resources that are not necessary for you to complete, given the timelines of this course.&#x20;
+Now that you understand the role of "context," you might want to grasp some concepts to appreciate how these models work at a granular level. Given the timelines of this course, while foundational for a better understanding of LLMs, these concepts are tagged as Bonus Resources.&#x20;
 
 * **Attention in Large Language Models:** Imagine being in a room where multiple conversations are happening. Your ability to focus on one conversation over the others is similar to how Attention works in neural networks. It allows the model to 'focus' on relevant parts of the input for tasks.&#x20;
-* **Encoder-Decoder Architecture:** In this, an encoder translates the input (e.g., a sentence) into a fixed-size context vector. The decoder takes this context vector to generate an output sequence (e.g., a translated sentence). When the attention mechanism is in action,  it guides the Decoder to focus on certain parts of the Encoder’s output, enhancing the translation or text generation task. The concept of Attention complements the Encoder-Decoder architecture, making it more effective and efficient. This architecture is a building block for LLMs such as GPT-3.5.&#x20;
+* **Encoder-Decoder Architecture:** An encoder translates the input (e.g., a sentence) into a fixed-size context vector. The decoder takes this context vector to generate an output sequence (e.g., a translated sentence). When the attention mechanism is in action,  it guides the Decoder to focus on certain parts of the Encoder’s output, enhancing the translation or text generation task. The concept of Attention complements the Encoder-Decoder architecture, making it more effective and efficient. This architecture is a building block for LLMs such as GPT-3.5.&#x20;
 
 ### Bonus Links
 

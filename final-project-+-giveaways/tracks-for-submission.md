@@ -86,6 +86,8 @@ Imagine an app that delivers real-time ad recommendations based on current marke
 
 **Additional Resource 📊**
 
-We're also providing a Google Sheet ([link](https://docs.google.com/spreadsheets/d/19J7wf01b5AtXjY2NackKOq2f3Vr7W-k97kxfcDZDOcg/edit?usp=sharing)) as an additional resource to fuel your creative thinking. Please be aware that these ideas originated from a weekend brainstorming session by one of the course instructors and are not fully developed solutions. As developers, you may encounter technical challenges that haven't been specifically outlined; your task is to anticipate and navigate through them.
+We also provide a Google Sheet ([link](https://docs.google.com/spreadsheets/d/19J7wf01b5AtXjY2NackKOq2f3Vr7W-k97kxfcDZDOcg/edit?usp=sharing)) as an additional resource to fuel your creative thinking. It also has a bucket list of APIs that provide real-time data.&#x20;
+
+Please be aware that these ideas originated from a weekend brainstorming session by one of the course instructors (Mudit) and are not fully developed solutions. As developers, you may encounter technical challenges that haven't been specifically outlined; your task is to anticipate and navigate them.
 
 These ideas are designed to ignite your creativity and potentially guide your thought process, rather than confine your possibilities. So, as you embark on this journey, don't limit yourself—feel free to venture beyond!\

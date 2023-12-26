@@ -1,10 +1,10 @@
 # What is Generative AI?
 
-Before delving into the depths of Large Language Models, it's imperative to grasp the broader concept of Generative AI. To aid this understanding, we present a comprehensive video by Gwendolyn Stripling from Google.&#x20;
+Before delving into the depths of Large Language Models, grasping the broader concept of Generative AI is imperative. We present a comprehensive video by Gwendolyn Stripling from Google to aid this understanding.&#x20;
 
-**This video will provide you with:**
-
-A clear overview of Generative AI and its significance. Insights into how Generative AI is shaping modern applications. By the end of this video, you'll have a robust foundational understanding of Generative AI, paving the way for our exploration of LLMs.
+* This video will provide a clear overview of Generative AI and its significance.&#x20;
+* Insights into how Generative AI is shaping modern applications.&#x20;
+* By the end of this video, you'll have a robust foundational understanding of Generative AI, paving the way for our exploration of LLMs.
 
 {% embed url="https://youtu.be/G2fqAlgmoPo?t=27" %}
 

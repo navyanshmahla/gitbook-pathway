@@ -1,6 +1,6 @@
 # Word Vector Relationships
 
-Navigating the landscape of text representation, it's essential to grasp how words relate to each other in vector form. In the upcoming video, Anup Surendran dives into the history of word vectors and takes a closer look at Google's groundbreaking Word2Vec project. Why are vector relationships so critical, and what biases do they bring?
+Navigating the landscape of text representation, and grasping how words relate to each other in vector form is essential. In the upcoming video, Anup Surendran dives into the history of word vectors and takes a closer look at Google's groundbreaking Word2Vec project. Why are vector relationships so critical, and what biases do they bring?
 
 Let's find out!
 
@@ -10,9 +10,9 @@ Here, Anup traces the evolution of word vectors, emphasizing the milestone that 
 
 For example, the vector equation "King - Man + Woman = Queen" showcases this property brilliantly.
 
-The video also explores the role of word vector relationships in similarity search—a key capability in large language models. However, Anup goes ahead to discuss a very important component, i.e. the biases that inherently exist in these major technological developments.&#x20;
+The video also explores the role of word vector relationships in similarity search—a key capability in large language models. However, Anup discusses a very important component, i.e., the inherent biases in these major technological developments.&#x20;
 
-Understanding these relationships and their implications not only deepens our grasp of Large Language Models but also equips us to use them more responsibly. 🌐
+Understanding these relationships and their implications deepens our grasp of Large Language Models and equips us to use them more responsibly. 🌐
 
 ### **💡** A practical insight
 
@@ -20,5 +20,5 @@ You’ll often hear the “vector embeddings” and “word vectors” being use
 
 ### How to Choose the Right Vector Embeddings Model
 
-Selecting the appropriate model for generating embeddings is an intriguing topic on its own. It's essential to recognize that there isn't a one-size-fits-all solution in this domain. A glance at this [MTEB Leaderboard on Hugging Face](https://huggingface.co/spaces/mteb/leaderboard) reveals a variety of embedding models, each tailored for specific applications. Currently, OpenAI's **`text-embedding-ada-002`** stands out as the go-to model for producing efficient vector embeddings from diverse data, be it structured or unstructured. We'll delve deeper into its utilization in our tutorials by the end of this course.
+Selecting the appropriate model for generating embeddings is an intriguing topic on its own. It's essential to recognize that this domain has no one-size-fits-all solution. A glance at this [MTEB Leaderboard on Hugging Face](https://huggingface.co/spaces/mteb/leaderboard) reveals a variety of embedding models, each tailored for specific applications. Currently, OpenAI's **`text-embedding-ada-002`** stands out as the go-to model for producing efficient vector embeddings from diverse data, whether structured or unstructured. We'll delve deeper into its utilization in our tutorials by the end of this course.
 

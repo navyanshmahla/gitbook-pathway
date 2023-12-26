@@ -2,9 +2,9 @@
 
 ### Hybrid Approach
 
-This coursework is meticulously designed using a hybrid approach. While the core of the content is delivered through recorded sessions, allowing you to learn at your convenience, we've also integrated interactive live sessions. This structure ensures that you get the best of both worlds: the flexibility of self-paced learning and the engagement of real-time discussions.&#x20;
+This coursework was meticulously designed using a hybrid approach. While the core of the content was delivered through recorded sessions, we also integrated interactive live sessions.&#x20;
 
-This way, your learning won't interfere with other academic or professional commitments.
+Since the bootcamp cohort is now concluded, we've added the session recordings within the coursework for you to watch them at your own pace. :smile:
 
 <figure><img src="../.gitbook/assets/happy-dance-seinfeld-friends-7b1taoq2en5qy1tz (1).gif" alt=""><figcaption></figcaption></figure>
 
@@ -12,13 +12,11 @@ This way, your learning won't interfere with other academic or professional comm
 
 *   **Kick-off Session**:&#x20;
 
-    * The first live session was held on 21st October at 5 p.m. IST / 1:30 p.m. CEST /1:30 p.m.. PDT fo4:30 a.m.ugural session. While attending live offered a chance for real-time interaction, we understand schedules might conflict.&#x20;
-    * You can find its recording [here](https://youtu.be/AjmeopQuuGI) if you couldn't watch the session live. This session recording will provide an overview of the course essentials.
-    * Nevertheless, we recommend attending future events in real time for a more engaging experience.&#x20;
+    * You can find its recording [here](https://youtu.be/AjmeopQuuGI) if you couldn't watch the session live.
+    * &#x20;This session recording will provide an overview of the course essentials.
 
 
 * **Fireside Chat with Jan Chorowski | Exploring the Frontiers of Large Language Models**:&#x20;
-  * On 2nd November, at 6 am PDT / 3 pm 6 a.m. / 6:303 p.m.. IST, we hosted an iconic chat around LLMs with [Jan Chorowski](https://scholar.google.com/citations?user=Yc94070AAAAJ\&hl=en) and [Anup Surendran](https://www.linkedin.com/in/anupsurendran/).&#x20;
   * You can find the session recording after the RAG Module as a Bonus Resource.&#x20;
   * In the session, we will delve into topics like:
     * The potentials and boundaries of LLMs.

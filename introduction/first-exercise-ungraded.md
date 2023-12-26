@@ -1,13 +1,10 @@
-# First Exercise (Ungraded) and Basic Checks
+# First Exercise (Ungraded)
 
-## First Set of To-Dos
-
-To make this course interactive and engaging, let's get started with a small exercise. This is a recommended exercise to enable you to make the best use of this course.
+To make this course interactive and engaging, let's get started with a small exercise. This is a suggested exercise to enable you to make the best use of this course.
 
 *   **Star the GitHub Repo**:&#x20;
 
-    * Visit the [Pathway](https://github.com/pathwaycom/pathway) and the [LLM App GitHub repository](https://github.com/pathwaycom/llm-app) and give it a star.&#x20;
-    * Doing so will not only show your support but also keep you updated as the project evolves. As an ideal practice, you’ll be recommended to ask your queries via GitHub issues on the repo.&#x20;
+    * We invite you to visit the [Pathway](https://github.com/pathwaycom/pathway) and the [LLM App GitHub repository](https://github.com/pathwaycom/llm-app) and give it a star if you like the work . Doing so will show your support and keep you updated as the project evolves. &#x20;
 
 
 * **Join** [**Pathway’s Discord**](https://discord.gg/SzSHw8Hd) **community:**&#x20;

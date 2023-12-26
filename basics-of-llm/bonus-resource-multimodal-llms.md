@@ -1,3 +1,9 @@
+---
+description: >-
+  Note: In response to the growing interest in multimodal LLMs, this section was
+  added at the conclusion of the bootcamp.
+---
+
 # Bonus Resource: Multimodal LLMs
 
 At this point, you're likely familiar with large language models (LLMs) and generative AI. Now, let's delve into the exciting world of Google Gemini via this short explainer by Mudit Srivastava. :smile:

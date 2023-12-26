@@ -4,7 +4,7 @@
   * [Getting Started](introduction/understanding-the-level-of-the-course.md)
   * [Course Syllabus](introduction/course-syllabus.md)
   * [Course Structure](introduction/course-structure.md)
-  * [Pre-Requisites](introduction/objectives-and-pre-requisites.md)
+  * [Prerequisites](introduction/prerequisites.md)
   * [Greetings from your Instructors](introduction/greetings-from-your-instructors.md)
   * [First Exercise (Ungraded)](introduction/first-exercise-ungraded-and-basic-checks.md)
 * [Basics of LLM](basics-of-llm/README.md)

@@ -6,7 +6,9 @@ Welcome to this exciting journey into the world of Large Language Models (LLMs)!
 
 ## About the bootcamp
 
-In November 2023, the Web and Coding Club at IIT Bombay (WnCC) and the AI Community at IIT Bombay, in partnership with Pathway, hosted this free-of-cost bootcamp around Generative AI, LLMs, and Real-time Data Processing. Here are the key highlights:
+In November 2023, the Web & Coding Club at IIT Bombay and the AI Community at IIT Bombay, supported by the Institute Technical Council, joined hands with Pathway to launch this free, cohort-based course. This initiative, focusing on Generative AI, LLMs, and Real-time Data Processing, addressed the growing need to understand, leverage, and build Generative AI solutions.
+
+**Key highlights:**
 
 * The course was shaped by contributions from global leaders in academia and deep learning, boasting past affiliations with prominent organizations like Google Brain, Mila-Quebec AI Institute, and Microsoft Research.
 * The bootcamp attracted over 1400 learners, including over 1000 students from IIT Bombay. Participants included students and professionals from HEC Paris, IIT Delhi, Indiana University, Qualcomm, and Novartis.

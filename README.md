@@ -2,6 +2,11 @@
 
 Welcome to this exciting journey into the world of Large Language Models (LLMs)!&#x20;
 
+**Please Note:**&#x20;
+
+* The same coursework is also available at the Institute Technical Council (ITC) IIT Bombay Website: [**https://itc.gymkhana.iitb.ac.in/AIC/realtime-llm-bootcamp/**](https://itc.gymkhana.iitb.ac.in/AIC/realtime-llm-bootcamp/). The link is open to everyone.
+* However, if you are not on the IIT Bombay campus and encounter any difficulties accessing the provided link, you can alternatively continue your learning here, on this link itself.&#x20;
+
 <figure><img src=".gitbook/assets/A 10 DAY BOOTCAMP ON (60 x 24 in) (1600 x 400 px) (Presentation) (2)-min.png" alt=""><figcaption></figcaption></figure>
 
 ## About the bootcamp

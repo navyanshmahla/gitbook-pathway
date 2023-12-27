@@ -43,9 +43,13 @@ Pathway is the world's fastest data processing engine ([benchmarks](https://path
 * Reduce the cost of any computations – it is powered by a highly efficient and scalable Rust engine.
 * Enable use cases enterprises crave, and make advanced data transformations fast and easy to implement.
 
-**Pathway on GitHub:**&#x20;
+**Discover on GitHub: Pathway's Data Processing Framework**
 
 {% embed url="https://github.com/pathwaycom/pathway" %}
+
+**Discover on GitHub: Pathway's RAG Framework for Large Language Models**
+
+{% embed url="https://github.com/pathwaycom/llm-app" fullWidth="false" %}
 
 ### Why is Pathway so Fast <a href="#why-is-pathway-so-fast" id="why-is-pathway-so-fast"></a>
 

@@ -14,8 +14,10 @@ In November 2023, the Web and Coding Club at IIT Bombay (WnCC) and the AI Commun
   * A project management assistant integrated with Slack, capable of delivering real-time insights from Trello Dashboards.
   * An LLM-powered application providing current insights into digital marketing trends influenced by ad spending data.
 
-**Recognizing the positive feedback and impact:**
+## Making the coursework available
 
-We are making the archived coursework available to everyone. This resource is particularly beneficial for those starting or looking to deeper into the world of LLMs, Generative AI, Retrieval Augmented Generation, and related areas, providing a thorough educational guide.
+We're opening up our archived coursework for free, driven by our belief in the power of open education and Generative AI. This is an invitation for students and professionals to use these resources as a springboard for creating solutions that make a real difference.
+
+This resource is particularly beneficial for those starting or looking to deeper into the world of Large Language Models (LLMs), Generative AI, Retrieval Augmented Generation (RAG), and related areas, providing a thorough educational guide.
 
 Happy learning! :smile:
